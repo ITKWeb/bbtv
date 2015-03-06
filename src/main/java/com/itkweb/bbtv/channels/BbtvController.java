@@ -24,11 +24,14 @@ import com.itkweb.bbtv.channels.services.ChannelConsumer;
 import org.apache.felix.ipojo.annotations.Requires;
 import org.wisdom.api.DefaultController;
 import org.wisdom.api.annotations.Controller;
+import org.wisdom.api.annotations.Parameter;
 import org.wisdom.api.annotations.Route;
 import org.wisdom.api.annotations.View;
 import org.wisdom.api.http.HttpMethod;
 import org.wisdom.api.http.Result;
 import org.wisdom.api.templates.Template;
+
+import java.util.List;
 
 /**
  * Your first Wisdom Controller.
@@ -39,8 +42,14 @@ public class BbtvController extends DefaultController {
     @View("bbtv")
     Template bbtv;
 
+    @View("only-one-channel")
+    Template onlyOneChannel;
+
     @Requires
     ChannelConsumer channelConsumer;
+
+    @Requires(specification = Channel.class)
+    List<Channel> channels;
 
     /**
      * The action method returning the welcome page. It handles
@@ -56,6 +65,26 @@ public class BbtvController extends DefaultController {
     @Route(method = HttpMethod.GET, uri = "/randomChannel")
     public Result randomChannel() {
         return channelConsumer.getChannel().result();
+    }
+
+    @Route(method = HttpMethod.GET, uri = "/channel/{id}")
+    public Result channel(@Parameter("id") String id) {
+        for(Channel channel : channels) {
+            if(channel.id().equals(id)) {
+                return ok(render(onlyOneChannel, "urlChannel", "/channelResult/" + channel.id()));
+            }
+        }
+        return badRequest("Channel " + id + " not found!");
+    }
+
+    @Route(method = HttpMethod.GET, uri = "/channelResult/{id}")
+    public Result channelResult(@Parameter("id") String id) {
+        for(Channel channel : channels) {
+            if(channel.id().equals(id)) {
+                return channel.result();
+            }
+        }
+        return badRequest("Channel " + id + " not found!");
     }
 
     @Route(method = HttpMethod.GET, uri = "/mosaic")
