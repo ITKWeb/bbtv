@@ -18,7 +18,7 @@ import org.wisdom.api.templates.Template;
 @Instantiate
 public class IWSChannel extends DefaultController implements Channel {
 
-    private ChannelMeta meta = new ChannelMeta(IWSChannel.class.getName(), "/assets/images/weather.png","Weather");
+    private ChannelMeta meta = new ChannelMeta(IWSChannel.class.getName(), "/assets/images/iws.jpg","IWS");
 
     @View("iwschannel")
     Template iwsTemplate;

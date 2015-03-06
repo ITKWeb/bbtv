@@ -14,10 +14,23 @@
 
     <h1 class="main-title">BBTV!</h1>
 
-    <iframe id="iframe" class="iframe" th:src="${urlChannel}"></iframe>
+    <div id="iframe" class="iframe" th:text="${urlChannel}"></div>
 
     <h1 class="main-footer">Made with ♥ by ITK</h1>
+<<<<<<< HEAD
+=======
+
+    <script>
+        window.addEventListener("load", function() {
+            $( "#iframe" ).load( $( "#iframe" ).text() );
+        });
+    </script>
+
+>>>>>>> 329587c50794507754e16304571ab5a6ae0ae43d
 </div>
+
+<!-- Scripts -->
+<script src="/libs/jquery.min.js"></script>
 
 </body>
 </html>
