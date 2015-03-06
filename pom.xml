@@ -143,47 +143,9 @@
                     </execution>
                 </executions>
             </plugin>
-		    <plugin>
-		      <groupId>org.eclipse.m2e</groupId>
-		      <artifactId>lifecycle-mapping</artifactId>
-		      <version>1.0.0</version>
-		      <configuration>
-		        <lifecycleMappingMetadata>
-		    	  <pluginExecutions>
-		    	    <pluginExecution>
-		    	  	<pluginExecutionFilter>
-		    	    	<groupId>org.wisdom-framework</groupId>
-		    			<artifactId>wisdom-maven-plugin</artifactId>
-		    			<versionRange>[0.4,)</versionRange>
-		    			<goals>
-		    				<goal>initialize</goal>
-		    				<goal>copy-configuration</goal>
-		    				<goal>copy-resources</goal>
-		    				<goal>copy-assets</goal>
-		    				<goal>copy-templates</goal>
-		    				<goal>compile-coffeescript</goal>
-		    				<goal>compile-less</goal>
-		    				<goal>compile-javascript</goal>
-		    				<goal>optimize-images</goal>
-		    				<goal>compile</goal>
-		    				<goal>package</goal>
-		    			</goals>
-		    		  </pluginExecutionFilter>
-		    		  <action><ignore></ignore></action>
-		    		</pluginExecution>
-		    	 </pluginExecutions>
-		      </lifecycleMappingMetadata>
-		     </configuration>
-		    </plugin>
         </plugins>
     </build>
-<!--  
-	<pluginManagement>
-	  <plugins>
-	
-	  </plugins>
-	</pluginManagement>
--->
+
     <repositories>
         <repository>
             <id>oss-snapshot</id>
