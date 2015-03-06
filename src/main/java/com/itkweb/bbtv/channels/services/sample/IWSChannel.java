@@ -20,21 +20,15 @@ public class IWSChannel extends DefaultController implements Channel {
 
     private ChannelMeta meta = new ChannelMeta("/assets/images/weather.png","Weather");
 
-    @View("welcome")
+    @View("iwschannel")
     Template iwsTemplate;
 
     public IWSChannel() {
-        System.out.println("YES----------------------");
     }
 
     @Override
     public Result result() {
         return ok(render(iwsTemplate, "iwschannel", "iws!!!!"));
-    }
-
-    @Override
-    public Result mosaic() {
-        return ok(render(iwsTemplate, "welcome", "Welcome to Wisdom Framework!"));
     }
 
     @Override
