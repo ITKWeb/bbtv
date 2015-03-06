@@ -1,4 +1,4 @@
-package com.itkweb.bbtv.channels;
+package com.itkweb.bbtv.channels.services;
 
 import org.wisdom.api.DefaultController;
 import org.wisdom.api.annotations.Service;

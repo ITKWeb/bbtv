@@ -19,6 +19,8 @@
  */
 package com.itkweb.bbtv.channels;
 
+import com.itkweb.bbtv.channels.services.Channel;
+import com.itkweb.bbtv.channels.services.ChannelConsumer;
 import org.apache.felix.ipojo.annotations.Requires;
 import org.wisdom.api.DefaultController;
 import org.wisdom.api.annotations.Controller;
@@ -54,8 +56,8 @@ public class WelcomeController extends DefaultController {
      */
     @Route(method = HttpMethod.GET, uri = "/")
     public Result welcome() {
-        //return channelConsumer.getChannel().get();
-        return channel.get();
+        return channelConsumer.getChannel().get();
+        //return channel.get();
     }
 
     @Route(method = HttpMethod.GET, uri = "/mosaic")

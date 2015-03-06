@@ -1,11 +1,12 @@
-package com.itkweb.bbtv.channels;
+package com.itkweb.bbtv.channels.services.consumer;
 
-import com.itkweb.bbtv.channels.Channel;
-import com.itkweb.bbtv.channels.sample.SampleChannel;
+import com.itkweb.bbtv.channels.services.Channel;
+import com.itkweb.bbtv.channels.services.ChannelConsumer;
 import org.apache.felix.ipojo.annotations.Component;
 import org.apache.felix.ipojo.annotations.Instantiate;
 import org.apache.felix.ipojo.annotations.Provides;
 import org.apache.felix.ipojo.annotations.Requires;
+import org.wisdom.api.http.Result;
 
 import java.util.Collection;
 import java.util.List;
@@ -22,12 +23,12 @@ public class ChannelConsumerImpl implements ChannelConsumer {
     private Random r = new Random();
 
     @Requires(specification = Channel.class)
-    Collection<Channel> channels;
+    List<Channel> channels;
 
     @Override
-    public String getChannel() {
-     //   return channels.get(r.nextInt(channels.size()));
-        return "Yes";
+    public Channel getChannel() {
+        return channels.get(r.nextInt(channels.size()));
+     //   return "Yes";
         //return channels;
     }
 }
