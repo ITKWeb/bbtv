@@ -2,597 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="806afb33-e70e-4245-b139-d3aea4dddb7b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bbtv-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/bbtv-1.0-SNAPSHOT.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assets/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assets/main.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/assets/owl-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/itkweb/bbtv/channels/Channel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/itkweb/bbtv/channels/ChannelConsumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/itkweb/bbtv/channels/ChannelConsumerImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/itkweb/bbtv/channels/WelcomeController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/itkweb/bbtv/channels/sample/OtherChannel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/itkweb/bbtv/channels/sample/SampleChannel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/templates/welcome.thl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/null/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/null/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/null/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/null/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/osgi/dependencies.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/osgi/instructions.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/osgi/osgi.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-sample.UnitTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/sample.UnitTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/sample/BlackBoxIT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/sample/FluentLeniumIT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/sample/InContainerIT$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/sample/InContainerIT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/sample/UnitTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/bootstrap-3.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/bootswatch-flatly-3.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/com.codahale.metrics.core-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/com.codahale.metrics.graphite-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/com.codahale.metrics.jvm-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/font-awesome-4.0.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/font-mfizz-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/handlebars-1.3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/jquery-2.1.0-2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/jquery-mousewheel-3.1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/momentjs-2.5.1-1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/org.wisdom.framework.documentation-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/org.wisdom.framework.wisdom.monitor-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/application/tablesorter-2.15.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/bin/chameleon-core-1.10.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/bin/commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/bin/guava-18.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/bin/jansi-1.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/bin/logback-classic-1.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/bin/logback-core-1.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/bin/org.apache.felix.framework-4.4.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/bin/org.osgi.enterprise-5.0.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/bin/osgi-3.10.0-v20140606-1445.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/bin/slf4j-api-1.7.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle0/bundle.id" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle1/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle1/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle10/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle10/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle11/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle11/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle12/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle12/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle13/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle13/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle13/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle14/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle14/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle14/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle15/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle15/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle15/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle16/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle16/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle16/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle17/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle17/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle17/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle18/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle18/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle18/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle19/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle19/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle19/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle2/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle2/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle20/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle20/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle20/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle21/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle21/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle21/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle22/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle22/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle22/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle23/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle23/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle23/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle24/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle24/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle24/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle25/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle25/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle25/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle26/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle26/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle26/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle27/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle27/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle27/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle28/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle28/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle28/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle29/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle29/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle29/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle3/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle3/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle30/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle30/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle30/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle31/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle31/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle31/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle32/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle32/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle32/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle33/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle33/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle33/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle34/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle34/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle34/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle35/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle35/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle35/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle36/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle36/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle36/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle37/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle37/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle37/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/.csscomb.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/.csslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/print.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/less/wells.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1/webjars-requirejs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/js/transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/bootswatch.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/print.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1/less/wells.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/bordered-pulled.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/fixed-width.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/larger.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/list.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/path.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/rotated-flipped.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/spinning.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/stacked.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_spinning.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3/scss/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2/RELEASE-NOTES.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2/font-mfizz.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2/font-mfizz.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2/font-mfizz.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2/font-mfizz.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2/font-mfizz.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2/icons.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2/preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/handlebars-1.3.0/handlebars/1.3.0/handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/handlebars-1.3.0/handlebars/1.3.0/handlebars.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-2.1.0/jquery/2.1.0/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-2.1.0/jquery/2.1.0/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-2.1.0/jquery/2.1.0/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-2.1.0/jquery/2.1.0/webjars-requirejs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-mousewheel-3.1.9/jquery-mousewheel/3.1.9/jquery.mousewheel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-mousewheel-3.1.9/jquery-mousewheel/3.1.9/webjars-requirejs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ar-ma.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/bs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/cv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/cy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/en-au.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/en-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/en-gb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/eo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/eu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/fo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/fr-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/gl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/hi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/hy-am.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/is.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ka.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/lb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/mk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/mr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ms-my.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ne.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/nn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/pt-br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/rs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/sq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/ta.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/tl-ph.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/tzm-la.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/tzm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/uz.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/vn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/lang/zh-tw.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/min/langs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/min/langs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/min/moment-with-langs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/min/moment-with-langs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/min/moment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/moment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/package.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1/webjars-requirejs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/filter.formatter.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/black-asc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/black-desc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/black-unsorted.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/dropbox-asc-hovered.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/dropbox-asc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/dropbox-desc-hovered.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/dropbox-desc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/green-asc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/green-desc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/green-header.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/green-unsorted.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/ice-asc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/ice-desc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/ice-unsorted.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/white-asc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/white-desc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/images/white-unsorted.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/psd/green-asc.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/psd/green-desc.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/psd/green-unsorted.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.black-ice.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.blue.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.bootstrap_2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.dropbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.grey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.ice.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.jui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/css/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/extras/jquery.quicksearch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/extras/semver-mod.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/extras/semver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/jquery.metadata.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/jquery.tablesorter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/jquery.tablesorter.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/jquery.tablesorter.widgets-filter-formatter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/jquery.tablesorter.widgets-filter-formatter.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/jquery.tablesorter.widgets.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/jquery.tablesorter.widgets.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/parsers/parser-date-iso8601.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/parsers/parser-date-month.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/parsers/parser-date-two-digit-year.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/parsers/parser-date-weekday.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/parsers/parser-date.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/parsers/parser-feet-inch-fraction.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/parsers/parser-file-type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/parsers/parser-ignore-articles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/parsers/parser-input-select.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/parsers/parser-ipv6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/parsers/parser-metric.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/widgets/widget-build-table.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/widgets/widget-columnSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/widgets/widget-cssStickyHeaders.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/widgets/widget-editable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/widgets/widget-grouping.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/widgets/widget-pager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/widgets/widget-repeatheaders.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5/js/widgets/widget-scroller.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle38/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle39/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle39/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle39/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle4/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle4/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle40/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle40/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle40/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle41/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle41/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle41/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle42/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle42/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle42/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle43/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle43/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle43/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle44/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle44/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle44/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle45/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle45/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle45/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle46/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle46/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle46/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle47/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle47/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle47/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle48/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle48/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle48/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle49/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle49/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle49/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle5/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle5/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle50/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle50/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle50/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle51/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle51/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle51/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle52/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle52/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle52/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle53/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle53/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle53/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle54/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle54/version0.42/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle54/version0.42/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle55/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle55/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle55/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle56/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle56/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle56/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle57/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle57/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle57/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle58/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle58/version0.0/bundle.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle58/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle6/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle6/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle7/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle7/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle8/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle8/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle9/bundle.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon-cache/bundle9/version0.0/revision.location" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/chameleon.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/conf/application.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/conf/chameleon.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/conf/logger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/conf/system.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/org.apache.felix.configadmin-1.8.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/org.apache.felix.gogo.command-0.14.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/org.apache.felix.gogo.runtime-0.14.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/org.apache.felix.ipojo-1.12.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/org.apache.felix.ipojo.gogo-1.12.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/org.apache.felix.ipojo.handler.whiteboard-1.6.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/ow2-util-i18n-1.0.36.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/ow2-util-log-1.0.36.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/shelbie-api-2.0.0-RC1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/shelbie-builtin-commands-2.0.0-RC1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/shelbie-core-2.0.0-RC1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/shelbie-gogocommands-2.0.0-RC1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/shelbie-ipojo-commands-2.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/core/shelbie-startup-console-2.0.0-RC1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/logs/wisdom.2015-03-05.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/logs/wisdom.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/akka-system-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/application-configuration-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/commons-codec-1.10.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/commons-lang-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/commons-logging-1.1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/content-manager-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/crypto-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/default-error-handler-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/ehcache-cache-service-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/guava-18.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/hibernate-validation-service-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/httpasyncclient-osgi-4.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/httpclient-osgi-4.3.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/httpcore-osgi-4.3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/i18n-service-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/jackson-annotations-2.4.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/jackson-core-2.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/jackson-databind-2.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/jackson-dataformat-xml-2.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/jackson-module-jaxb-annotations-2.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/joda-time-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/netty-all-4.0.21.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/netty-buffer-4.0.23.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/netty-codec-4.0.23.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/netty-codec-http-4.0.23.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/netty-codec-socks-4.0.23.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/netty-common-4.0.23.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/netty-handler-4.0.23.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/netty-transport-4.0.23.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/netty-transport-sctp-4.0.23.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/org.apache.felix.eventadmin-1.3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/org.apache.servicemix.bundles.ehcache-2.6.8_1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/resource-controller-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/router-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/scala-library-2.10.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/stax2-api-3.1.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/thymeleaf-template-engine-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/validation-api-1.1.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/wisdom-api-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/runtime/wisdom-vertx-engine-0.7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/templates/error/404.thl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/templates/error/500.thl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/wisdom/templates/error/pipeline.thl.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bbtv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -642,14 +55,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChannelConsumerImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChannelConsumerImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itkweb/bbtv/channels/ChannelConsumerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5555556" vertical-offset="0" max-vertical-offset="621">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
               <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12077295" vertical-offset="0" max-vertical-offset="621">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -753,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/itkweb/bbtv/channels/ChannelConsumer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itkweb/bbtv/channels/WelcomeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/itkweb/bbtv/channels/ChannelConsumerImpl.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -887,198 +311,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="error" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="channels" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="channels" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bbtv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1315,22 +547,22 @@
       <created>1425573358440</created>
       <option name="number" value="Default" />
       <updated>1425573358440</updated>
-      <workItem from="1425573360210" duration="7760000" />
+      <workItem from="1425573360210" duration="8268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7760000" />
+    <option name="totallyTimeSpent" value="8268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3284974" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3284974" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953367" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1560,11 +792,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itkweb/bbtv/channels/ChannelConsumerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5555556" vertical-offset="0" max-vertical-offset="621">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
           <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12077295" vertical-offset="0" max-vertical-offset="621">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
