@@ -19,6 +19,7 @@
  */
 package com.itkweb.bbtv.channels;
 
+import com.itkweb.bbtv.channels.apis.BreakingNews;
 import com.itkweb.bbtv.channels.apis.Channel;
 import com.itkweb.bbtv.channels.services.ChannelConsumer;
 import org.apache.felix.ipojo.annotations.Requires;
@@ -50,6 +51,9 @@ public class BbtvController extends DefaultController {
 
     @Requires(specification = Channel.class)
     List<Channel> channels;
+
+    @Requires
+    BreakingNews breakingNews;
 
     /**
      * The action method returning the welcome page. It handles
@@ -91,4 +95,7 @@ public class BbtvController extends DefaultController {
     public Result mosaic() {
         return channelConsumer.result();
     }
+
+    @Route(method = HttpMethod.GET, uri = "/bn")
+    public Result breakingnews() { return ok("Hello this is a very long which should be longer than the width of the marquee"); }
 }

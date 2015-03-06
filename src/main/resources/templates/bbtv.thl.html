@@ -26,9 +26,9 @@
             };
 
             if(getHash() !== 'debug') {
-                setInterval(function () {
+       /*         setInterval(function () {
                     $( "#iframe" ).load( "/randomChannel" );
-                }, 2000);
+                }, 2000); */
             }
 
             $( "#iframe" ).load( "/randomChannel" );
@@ -36,9 +36,20 @@
     </script>
 
 </div>
+<div class="bn-container">
+    <img width="100px" src="assets/images/breakingnews.png"></img><p class="bn" id="bn"></p>
+</div>
 
 <!-- Scripts -->
 <script src="/libs/jquery.min.js"></script>
+<script>
+    function breakingNews() {
+        $.get( "bn", function( data ) {
+            $('#bn').text(data);
+        });
+    }
 
+    setInterval(breakingNews, 1000);
+</script>
 </body>
 </html>
