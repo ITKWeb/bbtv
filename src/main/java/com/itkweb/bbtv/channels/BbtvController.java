@@ -19,7 +19,7 @@
  */
 package com.itkweb.bbtv.channels;
 
-import com.itkweb.bbtv.channels.services.Channel;
+import com.itkweb.bbtv.channels.apis.Channel;
 import com.itkweb.bbtv.channels.services.ChannelConsumer;
 import org.apache.felix.ipojo.annotations.Requires;
 import org.wisdom.api.DefaultController;
@@ -34,7 +34,7 @@ import org.wisdom.api.templates.Template;
  * Your first Wisdom Controller.
  */
 @Controller
-public class WelcomeController extends DefaultController {
+public class BbtvController extends DefaultController {
 
     /**
      * Injects a template named 'welcome'.
@@ -45,9 +45,6 @@ public class WelcomeController extends DefaultController {
     @Requires
     ChannelConsumer channelConsumer;
 
-    @Requires
-    Channel channel;
-
     /**
      * The action method returning the welcome page. It handles
      * HTTP GET request on the "/" URL.
@@ -56,13 +53,11 @@ public class WelcomeController extends DefaultController {
      */
     @Route(method = HttpMethod.GET, uri = "/")
     public Result welcome() {
-        return channelConsumer.getChannel().get();
-        //return channel.get();
+        return channelConsumer.getChannel().result();
     }
 
     @Route(method = HttpMethod.GET, uri = "/mosaic")
     public Result mosaic() {
-        return channel.mosaic();
-        //return channelConsumer.getChannel().mosaic();
+        return channelConsumer.result();
     }
 }

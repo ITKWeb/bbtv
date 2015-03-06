@@ -1,6 +1,7 @@
 package com.itkweb.bbtv.channels.services.sample;
 
-import com.itkweb.bbtv.channels.services.Channel;
+import com.itkweb.bbtv.channels.apis.Channel;
+import com.itkweb.bbtv.channels.apis.ChannelMeta;
 import org.apache.felix.ipojo.annotations.Component;
 import org.apache.felix.ipojo.annotations.Instantiate;
 import org.apache.felix.ipojo.annotations.Provides;
@@ -17,11 +18,13 @@ import org.wisdom.api.templates.Template;
 @Instantiate
 public class OtherChannelService extends DefaultController implements Channel {
 
+    private ChannelMeta meta = new ChannelMeta("/assets/images/weather.png","Weather");
+
     @View("welcome")
     Template welcome;
 
     @Override
-    public Result get() {
+    public Result result() {
         return ok(render(welcome, "welcome", "Hey guys from ITK!"));
     }
 
@@ -29,4 +32,15 @@ public class OtherChannelService extends DefaultController implements Channel {
     public Result mosaic() {
         return ok(render(welcome, "welcome", "Bonjour to Wisdom Framework!"));
     }
+
+    @Override
+    public ChannelMeta getMeta() {
+        return meta;
+    }
+
+    @Override
+    public String id() {
+        return OtherChannelService.class.getName();
+    }
+
 }

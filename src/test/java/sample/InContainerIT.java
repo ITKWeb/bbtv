@@ -19,7 +19,7 @@
  */
 package sample;
 
-import com.itkweb.bbtv.channels.WelcomeController;
+import com.itkweb.bbtv.channels.BbtvController;
 import org.junit.Test;
 import org.wisdom.api.http.Result;
 import org.wisdom.test.parents.Action;
@@ -42,7 +42,7 @@ public class InContainerIT extends WisdomTest {
      * templates.
      */
     @Inject
-    WelcomeController controller;
+    BbtvController controller;
 
     @Test
     public void testWelcomePage() {
