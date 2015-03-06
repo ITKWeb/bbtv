@@ -34,11 +34,6 @@ public class TestChannel extends DefaultController implements Channel {
     }
 
     @Override
-    public Result mosaic() {
-        return ok(render(test1));
-    }
-
-    @Override
     public String id() {
         return TestChannel.class.getName();
     }

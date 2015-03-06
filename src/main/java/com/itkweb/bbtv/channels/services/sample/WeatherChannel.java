@@ -20,8 +20,8 @@ public class WeatherChannel extends DefaultController implements Channel {
 
     private ChannelMeta meta = new ChannelMeta("/assets/images/weather.png","Weather");
 
-    @View("welcome")
-    Template welcome;
+    @View("test2")
+    Template test2;
 
     public WeatherChannel() {
         System.out.println("YES----------------------");
@@ -29,17 +29,12 @@ public class WeatherChannel extends DefaultController implements Channel {
 
     @Override
     public Result result() {
-        return ok(render(welcome, "welcome", "Welcome to ITK!"));
-    }
-
-    @Override
-    public Result mosaic() {
-        return ok(render(welcome, "welcome", "Welcome to Wisdom Framework!"));
+        return ok(render(test2));
     }
 
     @Override
     public ChannelMeta getMeta() {
-        return null;
+        return meta;
     }
 
     @Override

@@ -5,14 +5,32 @@
     <link rel="shortcut icon" href="/assets/owl-small.png"/>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-
+    <link rel="stylesheet" href="/assets/reset.css"/>
+    <link rel="stylesheet" href="/assets/main.css"/>
 </head>
 <body>
 <div class="container">
 
-    <h1>Welcome!</h1>
+    <h1 class="main-title">BBTV!</h1>
 
-    <iframe src="/randomChannel"></iframe>
+    <iframe id="iframe" class="iframe" src="/randomChannel"></iframe>
+
+    <h1 class="main-footer">Made with ♥ by ITK</h1>
+
+    <script>
+
+        var getHash = function getHash() {
+            var hash = window.location.hash;
+            return hash.substring(1); // remove #
+        };
+
+        if(getHash() !== 'debug') {
+            var iframe = document.getElementById('iframe');
+            setInterval(function () {
+                iframe.contentWindow.location.reload(true);
+            }, 10000);
+        }
+    </script>
 
 </div>
 

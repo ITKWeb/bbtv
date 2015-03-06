@@ -14,6 +14,8 @@ import org.wisdom.api.templates.Template;
 import java.util.Collection;
 import java.util.List;
 import java.util.Random;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  * Created by eric on 06/03/15.
@@ -33,7 +35,9 @@ public class ChannelConsumerImpl extends DefaultController implements ChannelCon
 
     @Override
     public Channel getChannel() {
-        return channels.get(r.nextInt(channels.size()));
+        Channel channel = channels.get(r.nextInt(channels.size()));
+        Logger.getLogger("ChannelConsumerImpl").log(Level.INFO, "Channel : " + channel.id());
+        return channel;
      //   return "Yes";
         //return channels;
     }
