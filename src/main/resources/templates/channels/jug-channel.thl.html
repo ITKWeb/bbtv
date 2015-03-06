@@ -1,0 +1,8 @@
+<ul class="jug-channel-events">
+    <li class="jug-channel-event" th:each="event : ${events}">
+        <h1 class="jug-channel-eventTitle" th:text="${event.title}"></h1>
+        <div class="jug-channel-eventDescription" th:text="${event.description}"></div>
+    </li>
+</ul>
+
+<link rel="stylesheet" href="/assets/stylesheets/channels/jug-channel.css"/>
