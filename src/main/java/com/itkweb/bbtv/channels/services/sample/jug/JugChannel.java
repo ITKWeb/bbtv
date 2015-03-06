@@ -1,6 +1,5 @@
-package com.itkweb.bbtv.channels.services.sample;
+package com.itkweb.bbtv.channels.services.sample.jug;
 
-import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.itkweb.bbtv.channels.apis.Channel;
 import com.itkweb.bbtv.channels.apis.ChannelMeta;
@@ -20,6 +19,8 @@ import java.io.InputStreamReader;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by rmaneschi on 06/03/15.
@@ -39,20 +40,26 @@ public class JugChannel extends DefaultController implements Channel {
 
     @Override
     public Result result() {
-        URL yahoo = null;
         try {
-            yahoo = new URL("http://jug-montpellier.org/api/events.json");
-            URLConnection yc = yahoo.openConnection();
-            BufferedReader in = new BufferedReader(new InputStreamReader(yc.getInputStream()));
+            URLConnection connection = new URL("http://jug-montpellier.org/api/events.json").openConnection();
+            BufferedReader in = new BufferedReader(new InputStreamReader(connection.getInputStream()));
             String inputLine;
             StringBuilder sb = new StringBuilder();
             while ((inputLine = in.readLine()) != null) {
                 sb.append(inputLine);
             }
             in.close();
-            JsonNode node = json.parse(sb.toString());
-
-            return ok(node);//render(jugChannel));
+            JsonNode jsonEvents = json.parse(sb.toString());
+            List<JugEvent> events = new ArrayList<JugEvent>();
+            JugEvent event;
+            for(JsonNode jsonEvent : jsonEvents) {
+                event = new JugEvent();
+                event.title = jsonEvent.get("title").textValue();
+                event.date = jsonEvent.get("date").textValue();
+                event.description = jsonEvent.get("description").textValue();
+                events.add(event);
+            }
+            return ok(render(jugChannel, "events", events));
         } catch (MalformedURLException e) {
             e.printStackTrace();
         } catch (IOException e) {
