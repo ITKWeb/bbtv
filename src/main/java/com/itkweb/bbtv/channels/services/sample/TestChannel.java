@@ -11,25 +11,21 @@ import org.wisdom.api.http.Result;
 import org.wisdom.api.templates.Template;
 
 /**
- * Created by eric on 06/03/15.
+ * Created by rmaneschi on 06/03/15.
  */
 @Component
 @Provides(specifications = Channel.class)
 @Instantiate
-public class WeatherChannel extends DefaultController implements Channel {
+public class TestChannel extends DefaultController implements Channel {
 
-    private ChannelMeta meta = new ChannelMeta("/assets/images/weather.png","Weather");
+    private ChannelMeta meta = new ChannelMeta("/assets/images/test.png", "Test");
 
-    @View("test2")
-    Template test2;
-
-    public WeatherChannel() {
-        System.out.println("YES----------------------");
-    }
+    @View("test1")
+    Template test1;
 
     @Override
     public Result result() {
-        return ok(render(test2));
+        return ok(render(test1));
     }
 
     @Override
@@ -39,6 +35,6 @@ public class WeatherChannel extends DefaultController implements Channel {
 
     @Override
     public String id() {
-        return OtherChannelService.class.getName();
+        return TestChannel.class.getName();
     }
 }

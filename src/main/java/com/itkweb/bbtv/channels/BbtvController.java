@@ -36,11 +36,8 @@ import org.wisdom.api.templates.Template;
 @Controller
 public class BbtvController extends DefaultController {
 
-    /**
-     * Injects a template named 'welcome'.
-     */
-    @View("welcome")
-    Template welcome;
+    @View("bbtv")
+    Template bbtv;
 
     @Requires
     ChannelConsumer channelConsumer;
@@ -53,6 +50,11 @@ public class BbtvController extends DefaultController {
      */
     @Route(method = HttpMethod.GET, uri = "/")
     public Result welcome() {
+        return ok(render(bbtv));
+    }
+
+    @Route(method = HttpMethod.GET, uri = "/randomChannel")
+    public Result randomChannel() {
         return channelConsumer.getChannel().result();
     }
 

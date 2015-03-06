@@ -9,8 +9,6 @@ public interface Channel {
 
     public Result result();
 
-    public Result mosaic();
-
     public ChannelMeta getMeta();
 
     public String id();

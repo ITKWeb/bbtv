@@ -18,19 +18,14 @@ import org.wisdom.api.templates.Template;
 @Instantiate
 public class OtherChannelService extends DefaultController implements Channel {
 
-    private ChannelMeta meta = new ChannelMeta("/assets/images/weather.png","Weather");
+    private ChannelMeta meta = new ChannelMeta("/assets/images/weather.png", "Other");
 
-    @View("welcome")
-    Template welcome;
+    @View("test2")
+    Template test2;
 
     @Override
     public Result result() {
-        return ok(render(welcome, "welcome", "Hey guys from ITK!"));
-    }
-
-    @Override
-    public Result mosaic() {
-        return ok(render(welcome, "welcome", "Bonjour to Wisdom Framework!"));
+        return ok(render(test2));
     }
 
     @Override
