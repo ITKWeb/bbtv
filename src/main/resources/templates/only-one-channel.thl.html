@@ -19,7 +19,9 @@
     <h1 class="main-footer">Made with ♥ by ITK</h1>
     <script>
         window.addEventListener("load", function() {
-            $( "#iframe" ).load( $( "#iframe" ).text() );
+            var url = $( "#iframe" ).text();
+            $( "#iframe" ).text("Pending...");
+            $( "#iframe" ).load( url );
         });
     </script>
 </div>

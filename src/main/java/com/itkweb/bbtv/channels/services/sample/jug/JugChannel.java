@@ -35,7 +35,7 @@ public class JugChannel extends DefaultController implements Channel {
     @Requires
     Json json;
 
-    @View("jug-channel")
+    @View("channels/jug-channel")
     Template jugChannel;
 
     @Override
