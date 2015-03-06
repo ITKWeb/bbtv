@@ -9,5 +9,5 @@ public class IWSData {
     public String stationId;
     public String temperatureCelsius;
     public String temperatureFahrenheit;
-    public String observationTime;
+    public String windMPH;
 }

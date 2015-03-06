@@ -39,7 +39,11 @@ public class IWSChannel extends DefaultController implements Channel {
     @View("iwschannel")
     Template iwsTemplate;
 
+    List<IWSData> iwsDataList = null;
+    String lastObservationTime = null;
+
     public IWSChannel() {
+        iwsDataList = new ArrayList<IWSData>();
     }
 
     @Override
@@ -58,16 +62,25 @@ public class IWSChannel extends DefaultController implements Channel {
             in.close();
             JsonNode jsonData = json.parse(sb.toString());
 
+            String observationTime = jsonData.get("observation_time").textValue();
+
+            if (!observationTime.equals(lastObservationTime)){
+                lastObservationTime = observationTime;
+            }
+
+
             IWSData iwsData = new IWSData();
-            iwsData.observationTime = jsonData.get("observation_time").textValue();
+
             iwsData.latitude = jsonData.get("latitude").textValue();
             iwsData.longitude= jsonData.get("longitude").textValue();
             iwsData.stationId= jsonData.get("station_id").textValue();
             iwsData.temperatureCelsius = jsonData.get("temp_c").textValue();
             iwsData.temperatureFahrenheit = jsonData.get("temp_f").textValue();
+            iwsData.windMPH = jsonData.get("wind_mph").textValue();
 
+            iwsDataList.add(iwsData);
 
-            return ok(render(iwsTemplate, "iwsData", iwsData));
+            return ok(render(iwsTemplate, "iwsDataList", iwsDataList, "lastObservationTime",  lastObservationTime));
 
         } catch (MalformedURLException e) {
             e.printStackTrace();
