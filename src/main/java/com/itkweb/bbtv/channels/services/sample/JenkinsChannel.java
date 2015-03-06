@@ -20,12 +20,12 @@ public class JenkinsChannel extends DefaultController implements Channel {
 
     private ChannelMeta meta = new ChannelMeta(JenkinsChannel.class.getName(), "/assets/images/jenkins.jpg", "Jenkins");
 
-    @View("test1")
-    Template test1;
+    @View("jenkins")
+    Template jenkins;
 
     @Override
     public Result result() {
-        return ok(render(test1));
+        return ok(render(jenkins));
     }
 
     @Override
