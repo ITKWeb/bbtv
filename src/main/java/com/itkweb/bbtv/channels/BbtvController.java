@@ -24,10 +24,7 @@ import com.itkweb.bbtv.channels.apis.Channel;
 import com.itkweb.bbtv.channels.services.ChannelConsumer;
 import org.apache.felix.ipojo.annotations.Requires;
 import org.wisdom.api.DefaultController;
-import org.wisdom.api.annotations.Controller;
-import org.wisdom.api.annotations.Parameter;
-import org.wisdom.api.annotations.Route;
-import org.wisdom.api.annotations.View;
+import org.wisdom.api.annotations.*;
 import org.wisdom.api.http.HttpMethod;
 import org.wisdom.api.http.Result;
 import org.wisdom.api.templates.Template;
@@ -97,5 +94,11 @@ public class BbtvController extends DefaultController {
     }
 
     @Route(method = HttpMethod.GET, uri = "/bn")
-    public Result breakingnews() { return ok("Hello this is a very long which should be longer than the width of the marquee"); }
+    public Result breakingnews() { return ok(breakingNews.news()); }
+
+    @Route(method = HttpMethod.GET, uri = "/bn/post")
+    public Result setBreakingnews(@QueryParameter("news") String text) {
+        breakingNews.setNews(text);
+        return ok("Thanks to send us a new breaking news. AFP Team");
+    }
 }

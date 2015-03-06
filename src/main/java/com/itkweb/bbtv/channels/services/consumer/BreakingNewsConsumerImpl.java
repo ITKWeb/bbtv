@@ -10,6 +10,7 @@ import org.apache.felix.ipojo.annotations.Provides;
 import org.apache.felix.ipojo.annotations.Requires;
 import org.wisdom.api.DefaultController;
 import org.wisdom.api.annotations.View;
+import org.wisdom.api.annotations.scheduler.Every;
 import org.wisdom.api.http.Result;
 import org.wisdom.api.templates.Template;
 
@@ -26,15 +27,21 @@ import java.util.logging.Logger;
 @Instantiate
 public class BreakingNewsConsumerImpl implements BreakingNews {
 
-    private String news;
+    private String news="";
 
     @Override
     public String news() {
-        return null;
+        return news;
     }
 
     @Override
     public void setNews(String news) {
         this.news = news;
+    }
+
+    @Every("1m")
+    public void resetNews() {
+        Logger.getLogger("BreakingNewsConsumerImpl").log(Level.INFO, "Reseting breaking news");
+        this.news = "";
     }
 }
