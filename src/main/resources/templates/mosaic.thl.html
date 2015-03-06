@@ -26,15 +26,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
     <link rel="stylesheet" href="/libs/css/bootstrap.css" media="screen"/>
-    <link rel="stylesheet" href="/assets/main.css"/>
+    <link rel="stylesheet" href="/assets/stylesheets/main.css"/>
 
 </head>
 <body>
 <div class="container">
     <div class="header">
-        <div th:text="${metadatas.get(0).getName()}"></div>
-        <div th:each="metadata : ${metadatas}">
-            <div th:text="${name}">Orantge</div>
+        <div th:text="${metadatas.get(1).getName()}"/>
+        <div th:each="meta : ${metadatas}">
+            <div th:text="${meta.name}">Onions</div>
         </div>
         <h3 class="text-danger">YYY ${project.artifactId} - ${project.version}</h3>
     </div>
