@@ -28,7 +28,7 @@
             if(getHash() !== 'debug') {
                 setInterval(function () {
                     $( "#iframe" ).load( "/randomChannel" );
-                }, 2000);
+                }, 5000);
             }
 
             $( "#iframe" ).load( "/randomChannel" );
@@ -50,7 +50,8 @@
 
 </div>
 <div class="bn-container">
-    <img width="100px" src="assets/images/breakingnews.png"></img><p class="bn" id="bn"></p>
+    <img width="100px" src="assets/images/breakingnews.png"></img>
+    <MARQUEE class="bn" id="bn"></MARQUEE>
 </div>
 
 <!-- Scripts -->
