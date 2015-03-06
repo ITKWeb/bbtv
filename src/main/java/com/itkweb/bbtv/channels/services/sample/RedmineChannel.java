@@ -11,21 +11,21 @@ import org.wisdom.api.http.Result;
 import org.wisdom.api.templates.Template;
 
 /**
- * Created by rmaneschi on 06/03/15.
+ * Created by eric on 06/03/15.
  */
 @Component
 @Provides(specifications = Channel.class)
 @Instantiate
-public class TestChannel extends DefaultController implements Channel {
+public class RedmineChannel extends DefaultController implements Channel {
 
-    private ChannelMeta meta = new ChannelMeta("/assets/images/test.png", "Test");
+    private ChannelMeta meta = new ChannelMeta("/assets/images/redmine.png", "Redmine");
 
-    @View("test1")
-    Template test1;
+    @View("test2")
+    Template test2;
 
     @Override
     public Result result() {
-        return ok(render(test1));
+        return ok(render(test2));
     }
 
     @Override
@@ -35,6 +35,7 @@ public class TestChannel extends DefaultController implements Channel {
 
     @Override
     public String id() {
-        return TestChannel.class.getName();
+        return RedmineChannel.class.getName();
     }
+
 }

@@ -30,16 +30,12 @@
 
 </head>
 <body>
+<div class="title">All available channels</div>
 <div class="container">
-    <div class="header">
-        <div th:text="${metadatas.get(1).getName()}"/>
-        <div th:each="meta : ${metadatas}">
-            <div th:text="${meta.name}">Onions</div>
-        </div>
-        <h3 class="text-danger">YYY ${project.artifactId} - ${project.version}</h3>
+    <div class="mosaic" th:each="meta : ${metadatas}">
+        <img class="image" th:attr="src=${meta.icon}"></img>
+        <div class="text" th:text="${meta.name}"></div>
     </div>
-
-
 </div>
 
 <!-- Scripts -->

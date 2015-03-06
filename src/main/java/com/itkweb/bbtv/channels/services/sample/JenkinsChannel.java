@@ -11,21 +11,21 @@ import org.wisdom.api.http.Result;
 import org.wisdom.api.templates.Template;
 
 /**
- * Created by eric on 06/03/15.
+ * Created by rmaneschi on 06/03/15.
  */
 @Component
 @Provides(specifications = Channel.class)
 @Instantiate
-public class OtherChannelService extends DefaultController implements Channel {
+public class JenkinsChannel extends DefaultController implements Channel {
 
-    private ChannelMeta meta = new ChannelMeta("/assets/images/weather.png", "Other");
+    private ChannelMeta meta = new ChannelMeta("/assets/images/jenkins.jpg", "Jenkins");
 
-    @View("test2")
-    Template test2;
+    @View("test1")
+    Template test1;
 
     @Override
     public Result result() {
-        return ok(render(test2));
+        return ok(render(test1));
     }
 
     @Override
@@ -35,7 +35,6 @@ public class OtherChannelService extends DefaultController implements Channel {
 
     @Override
     public String id() {
-        return OtherChannelService.class.getName();
+        return JenkinsChannel.class.getName();
     }
-
 }
