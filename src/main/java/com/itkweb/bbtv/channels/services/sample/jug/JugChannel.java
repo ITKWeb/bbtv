@@ -31,6 +31,7 @@ import java.util.List;
 public class JugChannel extends DefaultController implements Channel {
 
     private ChannelMeta meta = new ChannelMeta(JugChannel.class.getName(), "/assets/images/logo-jug.png", "JUG");
+    private List<JugEvent> events = new ArrayList<JugEvent>();
 
     @Requires
     Json json;
@@ -38,8 +39,7 @@ public class JugChannel extends DefaultController implements Channel {
     @View("channels/jug-channel")
     Template jugChannel;
 
-    @Override
-    public Result result() {
+    public JugChannel() {
         try {
             URLConnection connection = new URL("http://jug-montpellier.org/api/events.json").openConnection();
             BufferedReader in = new BufferedReader(new InputStreamReader(connection.getInputStream()));
@@ -50,7 +50,7 @@ public class JugChannel extends DefaultController implements Channel {
             }
             in.close();
             JsonNode jsonEvents = json.parse(sb.toString());
-            List<JugEvent> events = new ArrayList<JugEvent>();
+            events = new ArrayList<JugEvent>();
             JugEvent event;
             for(JsonNode jsonEvent : jsonEvents) {
                 event = new JugEvent();
@@ -59,14 +59,17 @@ public class JugChannel extends DefaultController implements Channel {
                 event.description = jsonEvent.get("description").textValue();
                 events.add(event);
             }
-            return ok(render(jugChannel, "events", events));
+
         } catch (MalformedURLException e) {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
 
-        return badRequest("Error");
+    @Override
+    public Result result() {
+        return ok(render(jugChannel, "events", events));
     }
 
     @Override
