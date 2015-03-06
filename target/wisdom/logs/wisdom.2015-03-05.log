@@ -1,0 +1,227 @@
+17:34:03.051 590  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting watcher service configured for [/home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime, /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application]
+17:34:03.053 592  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting file monitoring for application
+17:34:03.066 605  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@60cf4da0 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+17:34:03.388 927  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@60cf4da0 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+17:34:03.440 979  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@4843fd4 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+17:34:03.440 979  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@4843fd4 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+17:34:03.935 1474 [[iPOJO] pool-1-thread-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING] IPOJO-Main-Extender : 1 instances found in class org.wisdom.resources.AssetControllerConfiguration
+17:34:05.008 2547 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Starting JSON and XML support services
+17:34:05.109 2648 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module Hibernate-Validator-Module
+17:34:05.233 2772 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Enabling the watching of the configuration file
+17:34:05.233 2772 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@60cf4da0 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+17:34:05.233 2772 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@4843fd4 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+17:34:05.237 2776 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@28160129 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+17:34:05.237 2776 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@28160129 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+17:34:05.237 2776 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@28160129 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+17:34:05.238 2777 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Configuration file : /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf/application.conf
+17:34:05.238 2777 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Base directory : /home/eric/development/workspaces/hdays/bbtv/target/wisdom
+17:34:05.238 2777 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Wisdom running in DEV
+17:34:05.294 2833 [[iPOJO] pool-1-thread-1] INFO  o.w.a.i.InternationalizationService - 2 resource bundle(s) loaded from org.wisdom.framework.documentation (58)
+17:34:05.324 2863 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf configuration: mode=HTML5, ttl=1
+17:34:05.402 2941 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateTracker - Starting Thymeleaf template tracker
+17:34:05.427 2966 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.i18n.I18nController@4c585e91
+17:34:05.445 2984 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetsSingleton@7eadb544
+17:34:05.465 3004 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://38.0:0/templates/assets/list.thl.html
+17:34:05.472 3011 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/bundles.thl.html
+17:34:05.475 3014 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/controllers.thl.html
+17:34:05.479 3018 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/dashboard.thl.html
+17:34:05.483 3022 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/ipojo.thl.html
+17:34:05.486 3025 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/layout.thl.html
+17:34:05.490 3029 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/loggers.thl.html
+17:34:05.494 3033 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/login.thl.html
+17:34:05.497 3036 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/routes.thl.html
+17:34:05.500 3039 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/services.thl.html
+17:34:05.504 3043 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/terminal.thl.html
+17:34:05.507 3046 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/tiles.thl.html
+17:34:05.511 3050 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.0:0/templates/welcome.thl.html
+17:34:05.515 3054 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/content.thl.html
+17:34:05.518 3057 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/page.thl.html
+17:34:05.522 3061 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/welcome.thl.html
+17:34:05.533 3072 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Starting thymeleaf template deployer
+17:34:05.533 3072 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Template directory set to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates
+17:34:05.534 3073 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@60cf4da0 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+17:34:05.534 3073 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@4843fd4 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+17:34:05.534 3073 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@28160129 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+17:34:05.538 3077 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@491c5f62 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+17:34:05.538 3077 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@491c5f62 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+17:34:05.539 3078 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@491c5f62 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+17:34:05.539 3078 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@491c5f62 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+17:34:05.542 3081 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/404.thl.html
+17:34:05.546 3085 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/pipeline.thl.html
+17:34:05.549 3088 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/500.thl.html
+17:34:05.556 3095 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetController@51f096bc
+17:34:05.601 3140 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@4fe72991 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+17:34:05.607 3146 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@4fe72991 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+17:34:05.613 3152 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in bootswatch-flatly-3.1.1.jar : bootswatch-flatly-3.1.1
+17:34:05.632 3171 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - bootswatch-flatly unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1
+17:34:05.633 3172 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-2.1.0-2.jar : jquery-2.1.0
+17:34:05.637 3176 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-2.1.0/jquery/2.1.0
+17:34:05.638 3177 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in handlebars-1.3.0.jar : handlebars-1.3.0
+17:34:05.639 3178 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - handlebars unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/handlebars-1.3.0/handlebars/1.3.0
+17:34:05.644 3183 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in bootstrap-3.1.1.jar : bootstrap-3.1.1
+17:34:05.656 3195 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - bootstrap unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1
+17:34:05.664 3203 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in momentjs-2.5.1-1.jar : momentjs-2.5.1
+17:34:05.679 3218 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - momentjs unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1
+17:34:05.689 3228 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in tablesorter-2.15.5.jar : tablesorter-2.15.5
+17:34:05.702 3241 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - tablesorter unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5
+17:34:05.705 3244 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in font-mfizz-1.2.jar : font-mfizz-1.2
+17:34:05.710 3249 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - font-mfizz unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2
+17:34:05.715 3254 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in font-awesome-4.0.3.jar : font-awesome-4.0.3
+17:34:05.724 3263 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - font-awesome unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3
+17:34:05.727 3266 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-mousewheel-3.1.9.jar : jquery-mousewheel-3.1.9
+17:34:05.728 3267 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery-mousewheel unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-mousewheel-3.1.9/jquery-mousewheel/3.1.9
+17:34:05.729 3268 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@4fe72991 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+17:34:05.729 3268 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@4fe72991 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+17:34:05.732 3271 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.WebJarController@8e8c823
+17:34:05.755 3294 [[iPOJO] pool-1-thread-1] INFO  o.w.f.vertx.WisdomVertxServer - Starting the vert.x server
+17:34:05.797 3336 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Wisdom is going to serve HTTP requests on port 9000.
+17:34:05.936 3475 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering JVM metrics
+17:34:05.950 3489 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering HTTP metrics
+17:34:05.957 3496 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Initializing Metrics JMX reporting
+17:34:05.964 3503 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering the metric registry as service
+17:34:05.973 3512 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module org.wisdom.monitor.service.MonitorExtension
+17:34:05.974 3513 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.MonitorCenter@39d2aa53
+17:34:05.986 3525 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.dashboard.DashboardExtension@5e1b7661
+17:34:06.006 3545 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.ipojo.IPOJOController@41762346
+17:34:06.020 3559 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.logger.LoggerExtension@5974f812
+17:34:06.034 3573 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.BundleMonitorExtension@2056e42
+17:34:06.049 3588 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.ServiceMonitorExtension@17f15f12
+17:34:06.085 3624 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.terminal.WisitShellController@4d1f0102
+17:34:06.107 3646 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.ControllerExtension@4eb1c7e6
+17:34:06.120 3659 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.RouterExtension@40b85467
+17:34:06.131 3670 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@6d359514
+17:34:06.141 3680 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from controllers.Documentation@4f1deeaf
+17:34:34.237 31776 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+17:34:34.318 31857 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+17:43:22.410 559949 [Thread-1] INFO  org.ow2.chameleon - Stopping Chameleon
+17:43:22.421 559960 [Thread-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [org.wisdom.template.thymeleaf.tracker.TemplateDeployer-0] The dependency is not optional, however no service object can be injected in watcher -> org.ow2.chameleon.core.services.Watcher
+17:43:25.647 563186 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://58.0:0/templates/snippets/doc/content.thl.html from org.wisdom.framework.documentation
+17:43:25.654 563193 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://58.0:0/templates/snippets/doc/page.thl.html from org.wisdom.framework.documentation
+17:43:25.658 563197 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://58.0:0/templates/snippets/doc/welcome.thl.html from org.wisdom.framework.documentation
+17:43:25.662 563201 [FelixStartLevel] INFO  o.w.a.i.InternationalizationService - Bundle org.wisdom.framework.documentation (58) does not more offer the 2 resource bundle(s) it provided
+17:43:25.665 563204 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from controllers.Documentation@4f1deeaf
+17:43:25.675 563214 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.0:0/templates/welcome.thl.html from com.itkweb.bbtv
+17:43:25.677 563216 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@6d359514
+17:43:25.689 563228 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/bundles.thl.html from org.wisdom.framework.wisdom.monitor
+17:43:25.690 563229 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.osgi.BundleMonitorExtension@2056e42
+17:43:25.696 563235 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/controllers.thl.html from org.wisdom.framework.wisdom.monitor
+17:43:25.698 563237 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.wisdom.ControllerExtension@4eb1c7e6
+17:43:25.704 563243 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/dashboard.thl.html from org.wisdom.framework.wisdom.monitor
+17:43:25.706 563245 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.dashboard.DashboardExtension@5e1b7661
+17:43:25.721 563260 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/ipojo.thl.html from org.wisdom.framework.wisdom.monitor
+17:43:25.723 563262 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.ipojo.IPOJOController@41762346
+17:43:25.728 563267 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/layout.thl.html from org.wisdom.framework.wisdom.monitor
+17:43:25.730 563269 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/loggers.thl.html from org.wisdom.framework.wisdom.monitor
+17:43:25.731 563270 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.logger.LoggerExtension@5974f812
+17:43:25.736 563275 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/login.thl.html from org.wisdom.framework.wisdom.monitor
+17:43:25.737 563276 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.MonitorCenter@39d2aa53
+17:43:25.740 563279 [FelixStartLevel] INFO  o.w.c.jackson.JacksonSingleton - Removing Jackson module org.wisdom.monitor.service.MonitorExtension
+17:43:25.742 563281 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/routes.thl.html from org.wisdom.framework.wisdom.monitor
+17:43:25.743 563282 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.wisdom.RouterExtension@40b85467
+17:43:25.748 563287 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/services.thl.html from org.wisdom.framework.wisdom.monitor
+17:43:25.750 563289 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.osgi.ServiceMonitorExtension@17f15f12
+17:43:25.755 563294 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/terminal.thl.html from org.wisdom.framework.wisdom.monitor
+17:43:25.756 563295 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.terminal.WisitShellController@4d1f0102
+17:43:25.761 563300 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/tiles.thl.html from org.wisdom.framework.wisdom.monitor
+17:43:25.843 563382 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.i18n.I18nController@4c585e91
+17:43:25.852 563391 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.AssetController@51f096bc
+17:43:25.856 563395 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.AssetsSingleton@7eadb544
+17:43:25.860 563399 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.WebJarController@8e8c823
+17:43:25.866 563405 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://38.0:0/templates/assets/list.thl.html from org.wisdom-framework.resource-controller
+17:43:25.868 563407 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [org.wisdom.template.thymeleaf.tracker.TemplateTracker-0] The dependency is not optional, however no service object can be injected in engine -> org.wisdom.template.thymeleaf.ThymeleafTemplateCollector
+17:43:25.894 563433 [FelixStartLevel] INFO  o.w.f.vertx.WisdomVertxServer - Stopping the vert.x server
+17:43:25.903 563442 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - The HTTP server has been stopped
+17:43:25.962 563501 [FelixStartLevel] INFO  o.w.c.jackson.JacksonSingleton - Removing Jackson module Hibernate-Validator-Module
+17:43:37.346 613  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting watcher service configured for [/home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime, /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application]
+17:43:37.348 615  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting file monitoring for application
+17:43:37.359 626  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@6eff8ab2 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+17:43:37.622 889  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@6eff8ab2 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+17:43:37.665 932  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@46aedb9f for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+17:43:37.666 933  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@46aedb9f for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+17:43:38.746 2013 [[iPOJO] pool-1-thread-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING] IPOJO-Main-Extender : 1 instances found in class org.wisdom.resources.AssetControllerConfiguration
+17:43:39.845 3112 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Starting JSON and XML support services
+17:43:39.938 3205 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module Hibernate-Validator-Module
+17:43:40.062 3329 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Enabling the watching of the configuration file
+17:43:40.062 3329 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@6eff8ab2 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+17:43:40.062 3329 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@46aedb9f for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+17:43:40.066 3333 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@6b3ded0d for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+17:43:40.066 3333 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@6b3ded0d for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+17:43:40.067 3334 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@6b3ded0d for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+17:43:40.067 3334 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Configuration file : /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf/application.conf
+17:43:40.067 3334 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Base directory : /home/eric/development/workspaces/hdays/bbtv/target/wisdom
+17:43:40.067 3334 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Wisdom running in DEV
+17:43:40.084 3351 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf configuration: mode=HTML5, ttl=1
+17:43:40.160 3427 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Starting thymeleaf template deployer
+17:43:40.160 3427 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Template directory set to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates
+17:43:40.160 3427 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@6eff8ab2 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+17:43:40.161 3428 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@46aedb9f for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+17:43:40.161 3428 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@6b3ded0d for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+17:43:40.166 3433 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@6ec4f11 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+17:43:40.167 3434 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@6ec4f11 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+17:43:40.167 3434 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@6ec4f11 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+17:43:40.167 3434 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@6ec4f11 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+17:43:40.170 3437 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetController@2cfb1075
+17:43:40.185 3452 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/404.thl.html
+17:43:40.190 3457 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/pipeline.thl.html
+17:43:40.195 3462 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/500.thl.html
+17:43:40.196 3463 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateTracker - Starting Thymeleaf template tracker
+17:43:40.279 3546 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetsSingleton@6bf4d04a
+17:43:40.289 3556 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://38.0:0/templates/assets/list.thl.html
+17:43:40.305 3572 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/bundles.thl.html
+17:43:40.309 3576 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/controllers.thl.html
+17:43:40.313 3580 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/dashboard.thl.html
+17:43:40.317 3584 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/ipojo.thl.html
+17:43:40.321 3588 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/layout.thl.html
+17:43:40.325 3592 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/loggers.thl.html
+17:43:40.330 3597 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/login.thl.html
+17:43:40.334 3601 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/routes.thl.html
+17:43:40.338 3605 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/services.thl.html
+17:43:40.342 3609 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/terminal.thl.html
+17:43:40.347 3614 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/tiles.thl.html
+17:43:40.351 3618 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.0:0/templates/welcome.thl.html
+17:43:40.356 3623 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/content.thl.html
+17:43:40.360 3627 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/page.thl.html
+17:43:40.365 3632 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/welcome.thl.html
+17:43:40.478 3745 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@7961df18 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+17:43:40.485 3752 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@7961df18 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+17:43:40.491 3758 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in bootswatch-flatly-3.1.1.jar : bootswatch-flatly-3.1.1
+17:43:40.510 3777 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - bootswatch-flatly unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1
+17:43:40.511 3778 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-2.1.0-2.jar : jquery-2.1.0
+17:43:40.515 3782 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-2.1.0/jquery/2.1.0
+17:43:40.515 3782 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in handlebars-1.3.0.jar : handlebars-1.3.0
+17:43:40.517 3784 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - handlebars unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/handlebars-1.3.0/handlebars/1.3.0
+17:43:40.521 3788 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in bootstrap-3.1.1.jar : bootstrap-3.1.1
+17:43:40.533 3800 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - bootstrap unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1
+17:43:40.543 3810 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in momentjs-2.5.1-1.jar : momentjs-2.5.1
+17:43:40.563 3830 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - momentjs unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1
+17:43:40.574 3841 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in tablesorter-2.15.5.jar : tablesorter-2.15.5
+17:43:40.588 3855 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - tablesorter unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5
+17:43:40.591 3858 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in font-mfizz-1.2.jar : font-mfizz-1.2
+17:43:40.596 3863 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - font-mfizz unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2
+17:43:40.603 3870 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in font-awesome-4.0.3.jar : font-awesome-4.0.3
+17:43:40.612 3879 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - font-awesome unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3
+17:43:40.614 3881 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-mousewheel-3.1.9.jar : jquery-mousewheel-3.1.9
+17:43:40.615 3882 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery-mousewheel unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-mousewheel-3.1.9/jquery-mousewheel/3.1.9
+17:43:40.617 3884 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@7961df18 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+17:43:40.617 3884 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@7961df18 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+17:43:40.620 3887 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.WebJarController@73ef4e43
+17:43:40.637 3904 [[iPOJO] pool-1-thread-1] INFO  o.w.f.vertx.WisdomVertxServer - Starting the vert.x server
+17:43:40.697 3964 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Wisdom is going to serve HTTP requests on port 9000.
+17:43:40.739 4006 [[iPOJO] pool-1-thread-1] INFO  o.w.a.i.InternationalizationService - 2 resource bundle(s) loaded from org.wisdom.framework.documentation (58)
+17:43:40.749 4016 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.i18n.I18nController@8cb7e08
+17:43:40.926 4193 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering JVM metrics
+17:43:40.941 4208 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering HTTP metrics
+17:43:40.950 4217 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Initializing Metrics JMX reporting
+17:43:40.957 4224 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering the metric registry as service
+17:43:40.974 4241 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module org.wisdom.monitor.service.MonitorExtension
+17:43:41.029 4296 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.MonitorCenter@6af42a8c
+17:43:41.038 4305 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.dashboard.DashboardExtension@1007d5f5
+17:43:41.053 4320 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.ipojo.IPOJOController@46598c83
+17:43:41.065 4332 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.logger.LoggerExtension@22819df8
+17:43:41.080 4347 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.BundleMonitorExtension@6e228263
+17:43:41.097 4364 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.ServiceMonitorExtension@14a86899
+17:43:41.130 4397 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.terminal.WisitShellController@1f1117ba
+17:43:41.154 4421 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.ControllerExtension@36ba1fc7
+17:43:41.169 4436 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.RouterExtension@2ff9ffb2
+17:43:41.180 4447 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@110b432d
+17:43:41.191 4458 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from controllers.Documentation@544cedcd

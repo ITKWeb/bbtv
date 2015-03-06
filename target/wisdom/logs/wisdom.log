@@ -1,0 +1,973 @@
+08:22:24.498 52727765 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:22:24.498 52727765 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:22:24.504 52727771 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@110b432d
+08:22:24.517 52727784 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.0:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:22:24.545 52727812 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.1:0/templates/welcome.thl.html
+08:22:24.560 52727827 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@7480f19e
+08:23:08.556 52771823 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:23:08.556 52771823 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:23:08.563 52771830 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@7480f19e
+08:23:08.573 52771840 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.1:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:23:08.585 52771852 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.2:0/templates/welcome.thl.html
+08:23:08.595 52771862 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@407da4f0
+08:24:06.599 52829866 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:24:06.600 52829867 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:24:06.607 52829874 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@407da4f0
+08:24:06.621 52829888 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.2:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:24:06.631 52829898 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.3:0/templates/welcome.thl.html
+08:24:06.640 52829907 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@5049b85b
+08:24:42.639 52865906 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:24:42.640 52865907 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:24:42.644 52865911 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@5049b85b
+08:24:42.652 52865919 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.3:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:24:42.660 52865927 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.4:0/templates/welcome.thl.html
+08:24:42.670 52865937 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@75eff472
+08:26:52.691 52995958 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:26:52.691 52995958 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:26:52.696 52995963 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@75eff472
+08:26:52.704 52995971 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.4:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:26:52.711 52995978 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.5:0/templates/welcome.thl.html
+08:26:52.721 52995988 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@738694c5
+08:29:06.744 53130011 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:29:06.745 53130012 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:29:06.752 53130019 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@738694c5
+08:29:06.760 53130027 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.5:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:29:06.768 53130035 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.6:0/templates/welcome.thl.html
+08:29:06.777 53130044 [[iPOJO] pool-1-thread-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING] com.itkweb.bbtv.channels.sample.SampleChannel : No service interface found in the class hierarchy, use the implementation class
+08:29:06.789 53130056 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@3785d8ff
+08:32:42.822 53346089 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:32:42.822 53346089 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:32:42.842 53346109 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@3785d8ff
+08:32:42.854 53346121 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.6:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:32:42.862 53346129 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.7:0/templates/welcome.thl.html
+08:32:42.871 53346138 [[iPOJO] pool-1-thread-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING] com.itkweb.bbtv.channels.sample.SampleChannel : No service interface found in the class hierarchy, use the implementation class
+08:32:42.885 53346152 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@2e356ac4
+08:33:00.867 53364134 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:33:00.867 53364134 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:33:00.886 53364153 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@2e356ac4
+08:33:00.900 53364167 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.7:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:33:00.910 53364177 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.8:0/templates/welcome.thl.html
+08:33:00.921 53364188 [[iPOJO] pool-1-thread-1] ERROR o.o.u.log.impl.osgi.LoggerService - [ERROR] com.itkweb.bbtv.channels.sample.SampleChannel : The specification com.itkweb.bbtv.channels.Channel is not implemented by com.itkweb.bbtv.channels.sample.SampleChannel
+08:33:00.936 53364203 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@2d6e1a4a
+08:36:30.964 53574231 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:36:30.965 53574232 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:36:30.983 53574250 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@2d6e1a4a
+08:36:30.998 53574265 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.8:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:36:31.006 53574273 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.9:0/templates/welcome.thl.html
+08:36:31.029 53574296 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@d039a73
+08:38:09.031 53672298 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:38:09.031 53672298 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:38:09.049 53672316 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@d039a73
+08:38:09.064 53672331 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.9:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:38:09.074 53672341 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.10:0/templates/welcome.thl.html
+08:38:09.095 53672362 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@1638e0fd
+08:52:12.945 54516212 [Thread-1] INFO  org.ow2.chameleon - Stopping Chameleon
+08:52:12.954 54516221 [Thread-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [org.wisdom.template.thymeleaf.tracker.TemplateDeployer-0] The dependency is not optional, however no service object can be injected in watcher -> org.ow2.chameleon.core.services.Watcher
+08:52:16.294 54519561 [FelixStartLevel] INFO  o.w.a.i.InternationalizationService - Bundle org.wisdom.framework.documentation (58) does not more offer the 2 resource bundle(s) it provided
+08:52:16.297 54519564 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from controllers.Documentation@544cedcd
+08:52:16.308 54519575 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://58.0:0/templates/snippets/doc/content.thl.html from org.wisdom.framework.documentation
+08:52:16.310 54519577 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://58.0:0/templates/snippets/doc/page.thl.html from org.wisdom.framework.documentation
+08:52:16.311 54519578 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://58.0:0/templates/snippets/doc/welcome.thl.html from org.wisdom.framework.documentation
+08:52:16.318 54519585 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@1638e0fd
+08:52:16.333 54519600 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.10:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:52:16.337 54519604 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.MonitorCenter@6af42a8c
+08:52:16.339 54519606 [FelixStartLevel] INFO  o.w.c.jackson.JacksonSingleton - Removing Jackson module org.wisdom.monitor.service.MonitorExtension
+08:52:16.345 54519612 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.dashboard.DashboardExtension@1007d5f5
+08:52:16.365 54519632 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.ipojo.IPOJOController@46598c83
+08:52:16.373 54519640 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.logger.LoggerExtension@22819df8
+08:52:16.381 54519648 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.osgi.BundleMonitorExtension@6e228263
+08:52:16.388 54519655 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.osgi.ServiceMonitorExtension@14a86899
+08:52:16.399 54519666 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.terminal.WisitShellController@1f1117ba
+08:52:16.406 54519673 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.wisdom.ControllerExtension@36ba1fc7
+08:52:16.412 54519679 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.wisdom.RouterExtension@2ff9ffb2
+08:52:16.438 54519705 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/bundles.thl.html from org.wisdom.framework.wisdom.monitor
+08:52:16.439 54519706 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/controllers.thl.html from org.wisdom.framework.wisdom.monitor
+08:52:16.440 54519707 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/dashboard.thl.html from org.wisdom.framework.wisdom.monitor
+08:52:16.442 54519709 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/ipojo.thl.html from org.wisdom.framework.wisdom.monitor
+08:52:16.443 54519710 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/layout.thl.html from org.wisdom.framework.wisdom.monitor
+08:52:16.444 54519711 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/loggers.thl.html from org.wisdom.framework.wisdom.monitor
+08:52:16.446 54519713 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/login.thl.html from org.wisdom.framework.wisdom.monitor
+08:52:16.447 54519714 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/routes.thl.html from org.wisdom.framework.wisdom.monitor
+08:52:16.448 54519715 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/services.thl.html from org.wisdom.framework.wisdom.monitor
+08:52:16.449 54519716 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/terminal.thl.html from org.wisdom.framework.wisdom.monitor
+08:52:16.450 54519717 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/tiles.thl.html from org.wisdom.framework.wisdom.monitor
+08:52:16.488 54519755 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.i18n.I18nController@8cb7e08
+08:52:16.495 54519762 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.AssetController@2cfb1075
+08:52:16.500 54519767 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.AssetsSingleton@6bf4d04a
+08:52:16.504 54519771 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.WebJarController@73ef4e43
+08:52:16.509 54519776 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://38.0:0/templates/assets/list.thl.html from org.wisdom-framework.resource-controller
+08:52:16.511 54519778 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [org.wisdom.template.thymeleaf.tracker.TemplateTracker-0] The dependency is not optional, however no service object can be injected in engine -> org.wisdom.template.thymeleaf.ThymeleafTemplateCollector
+08:52:16.528 54519795 [FelixStartLevel] INFO  o.w.f.vertx.WisdomVertxServer - Stopping the vert.x server
+08:52:16.533 54519800 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - The HTTP server has been stopped
+08:52:16.582 54519849 [FelixStartLevel] INFO  o.w.c.jackson.JacksonSingleton - Removing Jackson module Hibernate-Validator-Module
+08:52:16.725 54519992 [Thread-1] INFO  org.ow2.chameleon - Chameleon stopped
+08:53:05.444 602  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting watcher service configured for [/home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime, /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application]
+08:53:05.447 605  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting file monitoring for application
+08:53:05.458 616  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@35b48de3 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+08:53:05.824 982  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@35b48de3 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+08:53:05.897 1055 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@1bf55430 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+08:53:05.898 1056 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@1bf55430 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+08:53:06.283 1441 [[iPOJO] pool-1-thread-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING] IPOJO-Main-Extender : 1 instances found in class org.wisdom.resources.AssetControllerConfiguration
+08:53:07.379 2537 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Starting JSON and XML support services
+08:53:07.473 2631 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module Hibernate-Validator-Module
+08:53:07.592 2750 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Enabling the watching of the configuration file
+08:53:07.593 2751 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@35b48de3 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+08:53:07.593 2751 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@1bf55430 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+08:53:07.595 2753 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@b336d8b for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+08:53:07.596 2754 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@b336d8b for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+08:53:07.596 2754 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@b336d8b for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+08:53:07.597 2755 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Configuration file : /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf/application.conf
+08:53:07.597 2755 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Base directory : /home/eric/development/workspaces/hdays/bbtv/target/wisdom
+08:53:07.597 2755 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Wisdom running in DEV
+08:53:07.644 2802 [[iPOJO] pool-1-thread-1] INFO  o.w.a.i.InternationalizationService - 2 resource bundle(s) loaded from org.wisdom.framework.documentation (58)
+08:53:07.672 2830 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf configuration: mode=HTML5, ttl=1
+08:53:07.764 2922 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateTracker - Starting Thymeleaf template tracker
+08:53:07.777 2935 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.i18n.I18nController@6986eaa5
+08:53:07.796 2954 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetsSingleton@f19723e
+08:53:07.817 2975 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://38.0:0/templates/assets/list.thl.html
+08:53:07.823 2981 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/bundles.thl.html
+08:53:07.826 2984 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/controllers.thl.html
+08:53:07.829 2987 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/dashboard.thl.html
+08:53:07.833 2991 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/ipojo.thl.html
+08:53:07.836 2994 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/layout.thl.html
+08:53:07.840 2998 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/loggers.thl.html
+08:53:07.843 3001 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/login.thl.html
+08:53:07.845 3003 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/routes.thl.html
+08:53:07.849 3007 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/services.thl.html
+08:53:07.853 3011 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/terminal.thl.html
+08:53:07.857 3015 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/tiles.thl.html
+08:53:07.860 3018 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.0:0/templates/welcome.thl.html
+08:53:07.864 3022 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/content.thl.html
+08:53:07.867 3025 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/page.thl.html
+08:53:07.870 3028 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/welcome.thl.html
+08:53:07.883 3041 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Starting thymeleaf template deployer
+08:53:07.883 3041 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Template directory set to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates
+08:53:07.884 3042 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@35b48de3 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+08:53:07.884 3042 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@1bf55430 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+08:53:07.884 3042 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@b336d8b for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+08:53:07.887 3045 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@28bef1b1 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+08:53:07.888 3046 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@28bef1b1 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+08:53:07.888 3046 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@28bef1b1 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+08:53:07.888 3046 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@28bef1b1 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+08:53:07.892 3050 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/404.thl.html
+08:53:07.895 3053 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/pipeline.thl.html
+08:53:07.898 3056 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/500.thl.html
+08:53:07.914 3072 [[iPOJO] pool-1-thread-1] INFO  o.w.f.vertx.WisdomVertxServer - Starting the vert.x server
+08:53:07.954 3112 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Wisdom is going to serve HTTP requests on port 9000.
+08:53:07.981 3139 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetController@5c9545f
+08:53:08.021 3179 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@1869be91 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+08:53:08.026 3184 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@1869be91 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+08:53:08.032 3190 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in bootswatch-flatly-3.1.1.jar : bootswatch-flatly-3.1.1
+08:53:08.052 3210 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - bootswatch-flatly unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1
+08:53:08.053 3211 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-2.1.0-2.jar : jquery-2.1.0
+08:53:08.057 3215 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-2.1.0/jquery/2.1.0
+08:53:08.057 3215 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in handlebars-1.3.0.jar : handlebars-1.3.0
+08:53:08.059 3217 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - handlebars unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/handlebars-1.3.0/handlebars/1.3.0
+08:53:08.063 3221 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in bootstrap-3.1.1.jar : bootstrap-3.1.1
+08:53:08.075 3233 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - bootstrap unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1
+08:53:08.084 3242 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in momentjs-2.5.1-1.jar : momentjs-2.5.1
+08:53:08.100 3258 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - momentjs unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1
+08:53:08.110 3268 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in tablesorter-2.15.5.jar : tablesorter-2.15.5
+08:53:08.123 3281 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - tablesorter unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5
+08:53:08.126 3284 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in font-mfizz-1.2.jar : font-mfizz-1.2
+08:53:08.132 3290 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - font-mfizz unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2
+08:53:08.138 3296 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in font-awesome-4.0.3.jar : font-awesome-4.0.3
+08:53:08.146 3304 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - font-awesome unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3
+08:53:08.148 3306 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-mousewheel-3.1.9.jar : jquery-mousewheel-3.1.9
+08:53:08.150 3308 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery-mousewheel unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-mousewheel-3.1.9/jquery-mousewheel/3.1.9
+08:53:08.151 3309 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@1869be91 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+08:53:08.151 3309 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@1869be91 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+08:53:08.154 3312 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.WebJarController@512b6f63
+08:53:08.280 3438 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering JVM metrics
+08:53:08.294 3452 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering HTTP metrics
+08:53:08.301 3459 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Initializing Metrics JMX reporting
+08:53:08.308 3466 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering the metric registry as service
+08:53:08.316 3474 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module org.wisdom.monitor.service.MonitorExtension
+08:53:08.319 3477 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.MonitorCenter@11a63ba0
+08:53:08.335 3493 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.dashboard.DashboardExtension@646d6f28
+08:53:08.358 3516 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.ipojo.IPOJOController@4a931343
+08:53:08.375 3533 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.logger.LoggerExtension@348d0d27
+08:53:08.394 3552 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.BundleMonitorExtension@17b1e91b
+08:53:08.413 3571 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.ServiceMonitorExtension@839803e
+08:53:08.441 3599 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.terminal.WisitShellController@7ae4e605
+08:53:08.461 3619 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.ControllerExtension@1f1117ba
+08:53:08.474 3632 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.RouterExtension@693220b9
+08:53:08.492 3650 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@f57a6ba
+08:53:08.502 3660 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from controllers.Documentation@5d1316be
+08:53:10.386 5544 [vert.x-eventloop-thread-0] ERROR wisdom-error - An exception occurred while processing request GET /
+java.lang.IllegalArgumentException: No enum constant org.wisdom.api.http.HttpMethod./
+	at java.lang.Enum.valueOf(Enum.java:236) ~[na:1.7.0_67]
+	at org.wisdom.api.http.HttpMethod.valueOf(HttpMethod.java:25) ~[wisdom-api-0.7.0.jar:na]
+	at org.wisdom.api.http.HttpMethod.from(HttpMethod.java:38) ~[wisdom-api-0.7.0.jar:na]
+	at org.wisdom.api.router.AbstractRouter.getRouteFor(AbstractRouter.java:43) ~[wisdom-api-0.7.0.jar:na]
+	at org.wisdom.api.router.Router$$Proxy.getRouteFor(Unknown Source) ~[na:na]
+	at sample.WelcomeController.__M_welcome(WelcomeController.java:58) ~[na:na]
+	at sample.WelcomeController.welcome(WelcomeController.java) ~[na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_67]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_67]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_67]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_67]
+	at org.wisdom.router.RouteDelegate$EndOfChainInvoker.call(RouteDelegate.java:278) ~[na:na]
+	at org.wisdom.api.interception.RequestContext.proceed(RequestContext.java:125) [wisdom-api-0.7.0.jar:na]
+	at org.wisdom.error.DefaultPageErrorHandler.__M_call(DefaultPageErrorHandler.java:236) [default-error-handler-0.7.0.jar:na]
+	at org.wisdom.error.DefaultPageErrorHandler.call(DefaultPageErrorHandler.java) [default-error-handler-0.7.0.jar:na]
+	at org.wisdom.api.interception.RequestContext.proceed(RequestContext.java:125) [wisdom-api-0.7.0.jar:na]
+	at org.wisdom.monitor.extensions.dashboard.HttpMetricFilter.call(HttpMetricFilter.java:126) [org.wisdom.framework.wisdom.monitor-0.7.0.jar:na]
+	at org.wisdom.api.interception.RequestContext.proceed(RequestContext.java:125) [wisdom-api-0.7.0.jar:na]
+	at org.wisdom.router.RouteDelegate.invoke(RouteDelegate.java:192) [router-0.7.0.jar:na]
+	at org.wisdom.framework.vertx.HttpHandler.invoke(HttpHandler.java:152) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.wisdom.framework.vertx.HttpHandler.dispatch(HttpHandler.java:125) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.wisdom.framework.vertx.HttpHandler.access$000(HttpHandler.java:49) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.wisdom.framework.vertx.HttpHandler$1.handle(HttpHandler.java:90) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.VoidHandler.handle(VoidHandler.java:27) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.VoidHandler.handle(VoidHandler.java:24) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.DefaultHttpServerRequest.handleEnd(DefaultHttpServerRequest.java:314) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.ServerConnection.handleEnd(ServerConnection.java:209) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.ServerConnection.processMessage(ServerConnection.java:313) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.ServerConnection.handleMessage(ServerConnection.java:94) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.DefaultHttpServer$ServerHandler.doMessageReceived(DefaultHttpServer.java:710) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.DefaultHttpServer$ServerHandler.doMessageReceived(DefaultHttpServer.java:600) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.VertxHttpHandler.channelRead(VertxHttpHandler.java:72) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.net.impl.VertxHandler.channelRead(VertxHandler.java:155) [wisdom-vertx-engine-0.7.0.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:163) [netty-codec-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at org.vertx.java.core.http.impl.cgbystrom.FlashPolicyHandler.channelRead(FlashPolicyHandler.java:53) [wisdom-vertx-engine-0.7.0.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:787) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:130) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [netty-common-4.0.23.Final.jar:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+08:53:21.124 16282 [vert.x-eventloop-thread-0] ERROR wisdom-error - An exception occurred while processing request GET /
+java.lang.IllegalArgumentException: No enum constant org.wisdom.api.http.HttpMethod./
+	at java.lang.Enum.valueOf(Enum.java:236) ~[na:1.7.0_67]
+	at org.wisdom.api.http.HttpMethod.valueOf(HttpMethod.java:25) ~[wisdom-api-0.7.0.jar:na]
+	at org.wisdom.api.http.HttpMethod.from(HttpMethod.java:38) ~[wisdom-api-0.7.0.jar:na]
+	at org.wisdom.api.router.AbstractRouter.getRouteFor(AbstractRouter.java:43) ~[wisdom-api-0.7.0.jar:na]
+	at org.wisdom.api.router.Router$$Proxy.getRouteFor(Unknown Source) ~[na:na]
+	at sample.WelcomeController.__M_welcome(WelcomeController.java:58) ~[na:na]
+	at sample.WelcomeController.welcome(WelcomeController.java) ~[na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_67]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[na:1.7.0_67]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.7.0_67]
+	at java.lang.reflect.Method.invoke(Method.java:606) ~[na:1.7.0_67]
+	at org.wisdom.router.RouteDelegate$EndOfChainInvoker.call(RouteDelegate.java:278) ~[na:na]
+	at org.wisdom.api.interception.RequestContext.proceed(RequestContext.java:125) [wisdom-api-0.7.0.jar:na]
+	at org.wisdom.error.DefaultPageErrorHandler.__M_call(DefaultPageErrorHandler.java:236) [default-error-handler-0.7.0.jar:na]
+	at org.wisdom.error.DefaultPageErrorHandler.call(DefaultPageErrorHandler.java) [default-error-handler-0.7.0.jar:na]
+	at org.wisdom.api.interception.RequestContext.proceed(RequestContext.java:125) [wisdom-api-0.7.0.jar:na]
+	at org.wisdom.monitor.extensions.dashboard.HttpMetricFilter.call(HttpMetricFilter.java:126) [org.wisdom.framework.wisdom.monitor-0.7.0.jar:na]
+	at org.wisdom.api.interception.RequestContext.proceed(RequestContext.java:125) [wisdom-api-0.7.0.jar:na]
+	at org.wisdom.router.RouteDelegate.invoke(RouteDelegate.java:192) [router-0.7.0.jar:na]
+	at org.wisdom.framework.vertx.HttpHandler.invoke(HttpHandler.java:152) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.wisdom.framework.vertx.HttpHandler.dispatch(HttpHandler.java:125) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.wisdom.framework.vertx.HttpHandler.access$000(HttpHandler.java:49) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.wisdom.framework.vertx.HttpHandler$1.handle(HttpHandler.java:90) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.VoidHandler.handle(VoidHandler.java:27) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.VoidHandler.handle(VoidHandler.java:24) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.DefaultHttpServerRequest.handleEnd(DefaultHttpServerRequest.java:314) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.ServerConnection.handleEnd(ServerConnection.java:209) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.ServerConnection.processMessage(ServerConnection.java:313) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.ServerConnection.handleMessage(ServerConnection.java:94) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.DefaultHttpServer$ServerHandler.doMessageReceived(DefaultHttpServer.java:710) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.DefaultHttpServer$ServerHandler.doMessageReceived(DefaultHttpServer.java:600) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.http.impl.VertxHttpHandler.channelRead(VertxHttpHandler.java:72) [wisdom-vertx-engine-0.7.0.jar:na]
+	at org.vertx.java.core.net.impl.VertxHandler.channelRead(VertxHandler.java:155) [wisdom-vertx-engine-0.7.0.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:163) [netty-codec-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at org.vertx.java.core.http.impl.cgbystrom.FlashPolicyHandler.channelRead(FlashPolicyHandler.java:53) [wisdom-vertx-engine-0.7.0.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:787) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:130) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [netty-transport-4.0.23.Final.jar:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [netty-common-4.0.23.Final.jar:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+08:53:21.456 16614 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:53:21.457 16615 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:53:21.466 16624 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@f57a6ba
+08:53:21.499 16657 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.0:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:53:21.512 16670 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.1:0/templates/welcome.thl.html
+08:53:21.541 16699 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@48580d0c
+08:53:25.184 20342 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+08:53:25.195 20353 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+08:53:53.628 48786 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+08:53:53.637 48795 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+08:53:55.529 50687 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:53:55.530 50688 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:53:55.540 50698 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@48580d0c
+08:53:55.590 50748 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.1:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:53:55.599 50757 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.2:0/templates/welcome.thl.html
+08:53:55.622 50780 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@55ed0c10
+08:53:57.822 52980 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+08:53:57.832 52990 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+08:54:04.360 59518 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+08:54:04.372 59530 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+08:54:45.620 100778 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:54:45.621 100779 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:54:45.629 100787 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@55ed0c10
+08:54:45.650 100808 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.2:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:54:45.658 100816 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.3:0/templates/welcome.thl.html
+08:54:45.693 100851 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@31366ff4
+08:54:59.664 114822 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:54:59.665 114823 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:54:59.679 114837 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@31366ff4
+08:54:59.699 114857 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.3:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:54:59.705 114863 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.4:0/templates/welcome.thl.html
+08:54:59.735 114893 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@5b843328
+08:57:35.763 270921 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+08:57:35.764 270922 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+08:57:35.781 270939 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@5b843328
+08:57:35.804 270962 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.4:0/templates/welcome.thl.html from com.itkweb.bbtv
+08:57:35.811 270969 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.5:0/templates/welcome.thl.html
+08:57:35.846 271004 [[iPOJO] pool-1-thread-1] ERROR o.o.u.log.impl.osgi.LoggerService - [ERROR] sample.WelcomeController : The deduction of the service specification for {field=channels} has failed - reason: when neither the field, methods and constructor parameter have provided the service specification, the `specification` attribute must be set
+09:03:03.905 599063 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:03:03.905 599063 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:03:03.935 599093 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.5:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:03:03.941 599099 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.6: missing requirement [54.6] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.updateBundle(Felix.java:2412) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:994) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:981) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:106) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:03:45.410 640568 [Thread-1] INFO  org.ow2.chameleon - Stopping Chameleon
+09:03:45.419 640577 [Thread-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [org.wisdom.template.thymeleaf.tracker.TemplateDeployer-0] The dependency is not optional, however no service object can be injected in watcher -> org.ow2.chameleon.core.services.Watcher
+09:03:48.002 643160 [FelixStartLevel] INFO  o.w.a.i.InternationalizationService - Bundle org.wisdom.framework.documentation (58) does not more offer the 2 resource bundle(s) it provided
+09:03:48.006 643164 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from controllers.Documentation@5d1316be
+09:03:48.021 643179 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://58.0:0/templates/snippets/doc/content.thl.html from org.wisdom.framework.documentation
+09:03:48.023 643181 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://58.0:0/templates/snippets/doc/page.thl.html from org.wisdom.framework.documentation
+09:03:48.026 643184 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://58.0:0/templates/snippets/doc/welcome.thl.html from org.wisdom.framework.documentation
+09:03:48.032 643190 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.MonitorCenter@11a63ba0
+09:03:48.035 643193 [FelixStartLevel] INFO  o.w.c.jackson.JacksonSingleton - Removing Jackson module org.wisdom.monitor.service.MonitorExtension
+09:03:48.045 643203 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.dashboard.DashboardExtension@646d6f28
+09:03:48.071 643229 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.ipojo.IPOJOController@4a931343
+09:03:48.083 643241 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.logger.LoggerExtension@348d0d27
+09:03:48.095 643253 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.osgi.BundleMonitorExtension@17b1e91b
+09:03:48.107 643265 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.osgi.ServiceMonitorExtension@839803e
+09:03:48.126 643284 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.terminal.WisitShellController@7ae4e605
+09:03:48.138 643296 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.wisdom.ControllerExtension@1f1117ba
+09:03:48.149 643307 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.wisdom.RouterExtension@693220b9
+09:03:48.195 643353 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/bundles.thl.html from org.wisdom.framework.wisdom.monitor
+09:03:48.197 643355 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/controllers.thl.html from org.wisdom.framework.wisdom.monitor
+09:03:48.199 643357 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/dashboard.thl.html from org.wisdom.framework.wisdom.monitor
+09:03:48.202 643360 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/ipojo.thl.html from org.wisdom.framework.wisdom.monitor
+09:03:48.204 643362 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/layout.thl.html from org.wisdom.framework.wisdom.monitor
+09:03:48.206 643364 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/loggers.thl.html from org.wisdom.framework.wisdom.monitor
+09:03:48.208 643366 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/login.thl.html from org.wisdom.framework.wisdom.monitor
+09:03:48.210 643368 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/routes.thl.html from org.wisdom.framework.wisdom.monitor
+09:03:48.212 643370 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/services.thl.html from org.wisdom.framework.wisdom.monitor
+09:03:48.215 643373 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/terminal.thl.html from org.wisdom.framework.wisdom.monitor
+09:03:48.217 643375 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://53.0:0/templates/monitor/tiles.thl.html from org.wisdom.framework.wisdom.monitor
+09:03:48.270 643428 [FelixStartLevel] INFO  o.w.f.vertx.WisdomVertxServer - Stopping the vert.x server
+09:03:48.275 643433 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - The HTTP server has been stopped
+09:03:48.280 643438 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.i18n.I18nController@6986eaa5
+09:03:48.290 643448 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.AssetController@5c9545f
+09:03:48.298 643456 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.AssetsSingleton@f19723e
+09:03:48.315 643473 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.WebJarController@512b6f63
+09:03:48.319 643477 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://38.0:0/templates/assets/list.thl.html from org.wisdom-framework.resource-controller
+09:03:48.321 643479 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [org.wisdom.template.thymeleaf.tracker.TemplateTracker-0] The dependency is not optional, however no service object can be injected in engine -> org.wisdom.template.thymeleaf.ThymeleafTemplateCollector
+09:03:48.390 643548 [FelixStartLevel] INFO  o.w.c.jackson.JacksonSingleton - Removing Jackson module Hibernate-Validator-Module
+09:03:57.527 540  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting watcher service configured for [/home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime, /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application]
+09:03:57.529 542  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting file monitoring for application
+09:03:57.540 553  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@2902ae46 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+09:03:57.818 831  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@2902ae46 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+09:03:57.852 865  [main] ERROR o.o.c.c.activators.BundleDeployer - Error during the starting of com.itkweb.bbtv
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.0: missing requirement [54.0] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) [chameleon-core-1.10.3.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) [chameleon-core-1.10.3.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.open(BundleDeployer.java:192) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor.addingService(DirectoryMonitor.java:238) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor.addingService(DirectoryMonitor.java:52) [chameleon-core-1.10.3.jar:na]
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:932) [org.apache.felix.framework-4.4.1.jar:na]
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:864) [org.apache.felix.framework-4.4.1.jar:na]
+	at org.osgi.util.tracker.AbstractTracked.trackAdding(AbstractTracked.java:256) [org.apache.felix.framework-4.4.1.jar:na]
+	at org.osgi.util.tracker.AbstractTracked.track(AbstractTracked.java:229) [org.apache.felix.framework-4.4.1.jar:na]
+	at org.osgi.util.tracker.ServiceTracker$Tracked.serviceChanged(ServiceTracker.java:894) [org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.util.EventDispatcher.invokeServiceListenerCallback(EventDispatcher.java:943) [chameleon-core-1.10.3.jar:na]
+	at org.apache.felix.framework.util.EventDispatcher.fireEventImmediately(EventDispatcher.java:794) [chameleon-core-1.10.3.jar:na]
+	at org.apache.felix.framework.util.EventDispatcher.fireServiceEvent(EventDispatcher.java:544) [chameleon-core-1.10.3.jar:na]
+	at org.apache.felix.framework.Felix.fireServiceEvent(Felix.java:4445) [chameleon-core-1.10.3.jar:na]
+	at org.apache.felix.framework.Felix.registerService(Felix.java:3431) [chameleon-core-1.10.3.jar:na]
+	at org.apache.felix.framework.BundleContextImpl.registerService(BundleContextImpl.java:346) [chameleon-core-1.10.3.jar:na]
+	at org.apache.felix.framework.BundleContextImpl.registerService(BundleContextImpl.java:353) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.start(BundleDeployer.java:80) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.utils.FrameworkManager.start(FrameworkManager.java:117) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.Chameleon.start(Chameleon.java:252) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.Main.main(Main.java:70) [chameleon-core-1.10.3.jar:na]
+09:03:57.868 881  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@39184c80 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+09:03:57.868 881  [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@39184c80 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+09:03:58.864 1877 [[iPOJO] pool-1-thread-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING] IPOJO-Main-Extender : 1 instances found in class org.wisdom.resources.AssetControllerConfiguration
+09:03:59.797 2810 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Starting JSON and XML support services
+09:03:59.896 2909 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module Hibernate-Validator-Module
+09:04:00.023 3036 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Enabling the watching of the configuration file
+09:04:00.024 3037 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@2902ae46 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+09:04:00.024 3037 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@39184c80 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+09:04:00.027 3040 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@129c28c3 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+09:04:00.027 3040 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@129c28c3 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+09:04:00.028 3041 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@129c28c3 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+09:04:00.028 3041 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Configuration file : /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf/application.conf
+09:04:00.028 3041 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Base directory : /home/eric/development/workspaces/hdays/bbtv/target/wisdom
+09:04:00.028 3041 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Wisdom running in DEV
+09:04:00.076 3089 [[iPOJO] pool-1-thread-1] INFO  o.w.a.i.InternationalizationService - 2 resource bundle(s) loaded from org.wisdom.framework.documentation (58)
+09:04:00.102 3115 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf configuration: mode=HTML5, ttl=1
+09:04:00.178 3191 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateTracker - Starting Thymeleaf template tracker
+09:04:00.192 3205 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.i18n.I18nController@15a2fd7a
+09:04:00.211 3224 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetsSingleton@c5286cb
+09:04:00.232 3245 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://38.0:0/templates/assets/list.thl.html
+09:04:00.239 3252 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/bundles.thl.html
+09:04:00.242 3255 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/controllers.thl.html
+09:04:00.246 3259 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/dashboard.thl.html
+09:04:00.251 3264 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/ipojo.thl.html
+09:04:00.255 3268 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/layout.thl.html
+09:04:00.258 3271 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/loggers.thl.html
+09:04:00.261 3274 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/login.thl.html
+09:04:00.267 3280 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/routes.thl.html
+09:04:00.271 3284 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/services.thl.html
+09:04:00.274 3287 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/terminal.thl.html
+09:04:00.278 3291 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://53.0:0/templates/monitor/tiles.thl.html
+09:04:00.282 3295 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/content.thl.html
+09:04:00.288 3301 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/page.thl.html
+09:04:00.291 3304 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://58.0:0/templates/snippets/doc/welcome.thl.html
+09:04:00.307 3320 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Starting thymeleaf template deployer
+09:04:00.308 3321 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Template directory set to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates
+09:04:00.309 3322 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@2902ae46 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+09:04:00.309 3322 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@39184c80 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+09:04:00.309 3322 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@129c28c3 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+09:04:00.314 3327 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@2c130eee for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+09:04:00.315 3328 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@2c130eee for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+09:04:00.315 3328 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@2c130eee for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+09:04:00.316 3329 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@2c130eee for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+09:04:00.320 3333 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/404.thl.html
+09:04:00.325 3338 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/pipeline.thl.html
+09:04:00.330 3343 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for file:/home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates/error/500.thl.html
+09:04:00.347 3360 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetController@480057f5
+09:04:00.399 3412 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@c30d75 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/runtime.
+09:04:00.407 3420 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@c30d75 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application.
+09:04:00.414 3427 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in bootswatch-flatly-3.1.1.jar : bootswatch-flatly-3.1.1
+09:04:00.436 3449 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - bootswatch-flatly unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/bootswatch-flatly-3.1.1/bootswatch-flatly/3.1.1
+09:04:00.437 3450 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-2.1.0-2.jar : jquery-2.1.0
+09:04:00.441 3454 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-2.1.0/jquery/2.1.0
+09:04:00.442 3455 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in handlebars-1.3.0.jar : handlebars-1.3.0
+09:04:00.443 3456 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - handlebars unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/handlebars-1.3.0/handlebars/1.3.0
+09:04:00.450 3463 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in bootstrap-3.1.1.jar : bootstrap-3.1.1
+09:04:00.462 3475 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - bootstrap unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/bootstrap-3.1.1/bootstrap/3.1.1
+09:04:00.475 3488 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in momentjs-2.5.1-1.jar : momentjs-2.5.1
+09:04:00.491 3504 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - momentjs unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/momentjs-2.5.1/momentjs/2.5.1
+09:04:00.502 3515 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in tablesorter-2.15.5.jar : tablesorter-2.15.5
+09:04:00.514 3527 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - tablesorter unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/tablesorter-2.15.5/tablesorter/2.15.5
+09:04:00.515 3528 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in font-mfizz-1.2.jar : font-mfizz-1.2
+09:04:00.520 3533 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - font-mfizz unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/font-mfizz-1.2/font-mfizz/1.2
+09:04:00.521 3534 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in font-awesome-4.0.3.jar : font-awesome-4.0.3
+09:04:00.528 3541 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - font-awesome unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/font-awesome-4.0.3/font-awesome/4.0.3
+09:04:00.529 3542 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-mousewheel-3.1.9.jar : jquery-mousewheel-3.1.9
+09:04:00.529 3542 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery-mousewheel unpacked to /home/eric/development/workspaces/hdays/bbtv/target/wisdom/chameleon-cache/bundle38/data/webjars/jquery-mousewheel-3.1.9/jquery-mousewheel/3.1.9
+09:04:00.530 3543 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@c30d75 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/conf.
+09:04:00.530 3543 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@c30d75 for directory /home/eric/development/workspaces/hdays/bbtv/target/wisdom/templates.
+09:04:00.533 3546 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.WebJarController@5e79de89
+09:04:00.558 3571 [[iPOJO] pool-1-thread-1] INFO  o.w.f.vertx.WisdomVertxServer - Starting the vert.x server
+09:04:00.598 3611 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Wisdom is going to serve HTTP requests on port 9000.
+09:04:00.754 3767 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering JVM metrics
+09:04:00.768 3781 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering HTTP metrics
+09:04:00.776 3789 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Initializing Metrics JMX reporting
+09:04:00.783 3796 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering the metric registry as service
+09:04:00.792 3805 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.dashboard.DashboardExtension@5b033800
+09:04:00.802 3815 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module org.wisdom.monitor.service.MonitorExtension
+09:04:00.853 3866 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.MonitorCenter@165b1239
+09:04:00.870 3883 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.ipojo.IPOJOController@2bc2419e
+09:04:00.880 3893 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.logger.LoggerExtension@79c96f94
+09:04:00.894 3907 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.BundleMonitorExtension@6ea939d
+09:04:00.907 3920 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.ServiceMonitorExtension@afcdfde
+09:04:00.936 3949 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.terminal.WisitShellController@7665b3d7
+09:04:00.958 3971 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.ControllerExtension@33639697
+09:04:00.974 3987 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.RouterExtension@d6ee249
+09:04:00.984 3997 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from controllers.Documentation@43c89f32
+09:05:19.568 82581 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:05:19.569 82582 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:05:19.578 82591 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.1: missing requirement [54.1] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:112) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:08:35.653 278666 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:08:35.653 278666 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:08:35.657 278670 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.2: missing requirement [54.2] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:112) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:10:17.693 380706 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:10:17.693 380706 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:10:17.698 380711 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.3: missing requirement [54.3] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:112) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:11:09.717 432730 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:11:09.718 432731 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:11:09.727 432740 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.4:0/templates/welcome.thl.html
+09:11:09.765 432778 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@486094f5
+09:16:03.816 726829 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:16:03.816 726829 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:16:03.836 726849 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@486094f5
+09:16:03.863 726876 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.4:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:16:03.872 726885 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.5:0/templates/welcome.thl.html
+09:16:03.914 726927 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@44621658
+09:16:07.873 730886 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:16:07.874 730887 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:16:07.885 730898 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@44621658
+09:16:07.908 730921 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.5:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:16:07.915 730928 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.6:0/templates/welcome.thl.html
+09:16:07.965 730978 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from sample.WelcomeController@29e44bc1
+09:17:53.942 836955 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:17:53.943 836956 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:17:53.966 836979 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from sample.WelcomeController@29e44bc1
+09:17:53.986 836999 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.6:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:17:53.990 837003 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.7: missing requirement [54.7] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.updateBundle(Felix.java:2412) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:994) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:981) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:106) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:35:46.281 1909294 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:35:46.281 1909294 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:35:46.286 1909299 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.8: missing requirement [54.8] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:112) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:38:28.326 2071339 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:38:28.327 2071340 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:38:28.332 2071345 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.9: missing requirement [54.9] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:112) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:39:04.341 2107354 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:39:04.341 2107354 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:39:04.345 2107358 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.10: missing requirement [54.10] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:112) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:39:46.356 2149369 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:39:46.356 2149369 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:39:46.360 2149373 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.11: missing requirement [54.11] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:112) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:40:09.482 2172495 [vert.x-eventloop-thread-0] INFO  org.wisdom.monitor.MonitorCenter - Authentication successful - admin
+09:40:09.795 2172808 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WebSocketHandler - New web socket connection org.vertx.java.core.http.impl.DefaultServerWebSocket@771f866e, /monitor/update
+09:40:09.796 2172809 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Adding web socket on /monitor/update bound to org.vertx.java.core.http.impl.DefaultServerWebSocket@771f866e
+09:40:13.294 2176307 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WebSocketHandler - Web Socket closed org.vertx.java.core.http.impl.DefaultServerWebSocket@771f866e, /monitor/update
+09:40:13.294 2176307 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Removing web socket on /monitor/update bound to /monitor/update
+09:40:15.020 2178033 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'fonts/glyphicons-halflings-regular.woff' - returning the one from bootstrap-3.1.1
+09:42:48.404 2331417 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:42:48.405 2331418 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:42:48.407 2331420 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.12: missing requirement [54.12] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:112) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:42:58.410 2341423 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:42:58.411 2341424 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:42:58.412 2341425 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.13: missing requirement [54.13] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:112) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:43:42.423 2385436 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:43:42.424 2385437 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:43:42.433 2385446 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.14:0/templates/welcome.thl.html
+09:44:00.438 2403451 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:44:00.438 2403451 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:44:00.467 2403480 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.14:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:44:00.475 2403488 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.15: missing requirement [54.15] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.updateBundle(Felix.java:2412) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:994) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:981) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:106) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:44:16.479 2419492 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:44:16.480 2419493 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:44:16.490 2419503 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.16:0/templates/welcome.thl.html
+09:44:32.494 2435507 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:44:32.495 2435508 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:44:32.543 2435556 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.16:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:44:32.547 2435560 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.17: missing requirement [54.17] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.updateBundle(Felix.java:2412) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:994) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:981) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:106) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:46:14.577 2537590 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:46:14.577 2537590 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:46:14.581 2537594 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.18: missing requirement [54.18] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:112) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:46:34.587 2557600 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:46:34.588 2557601 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:46:34.599 2557612 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.19:0/templates/welcome.thl.html
+09:46:58.605 2581618 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:46:58.606 2581619 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:46:58.641 2581654 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.19:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:46:58.647 2581660 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.20:0/templates/welcome.thl.html
+09:47:54.664 2637677 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:47:54.665 2637678 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:47:54.713 2637726 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.20:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:47:54.720 2637733 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.21:0/templates/welcome.thl.html
+09:47:54.749 2637762 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from com.itkweb.bbtv.channels.WelcomeController@630e1bf7
+09:47:56.924 2639937 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:47:56.944 2639957 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:47:59.269 2642282 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:47:59.274 2642287 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:47:59.940 2642953 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:47:59.946 2642959 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:50:52.768 2815781 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:50:52.768 2815781 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:50:52.782 2815795 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from com.itkweb.bbtv.channels.WelcomeController@630e1bf7
+09:50:52.817 2815830 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.21:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:50:52.824 2815837 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.22:0/templates/welcome.thl.html
+09:51:08.828 2831841 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:51:08.828 2831841 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:51:08.870 2831883 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.22:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:51:08.877 2831890 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.23:0/templates/welcome.thl.html
+09:51:58.891 2881904 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:51:58.891 2881904 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:51:58.933 2881946 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.23:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:51:58.936 2881949 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.24: missing requirement [54.24] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.updateBundle(Felix.java:2412) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:994) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:981) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:106) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:52:42.947 2925960 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:52:42.947 2925960 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:52:42.949 2925962 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.25: missing requirement [54.25] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:976) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.start(BundleImpl.java:963) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:112) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:52:58.953 2941966 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:52:58.954 2941967 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:52:58.962 2941975 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.26:0/templates/welcome.thl.html
+09:53:32.971 2975984 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:53:32.971 2975984 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:53:33.002 2976015 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.26:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:53:33.008 2976021 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.27:0/templates/welcome.thl.html
+09:53:33.040 2976053 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from com.itkweb.bbtv.channels.WelcomeController@3608d746
+09:53:35.139 2978152 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:53:35.147 2978160 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:53:45.011 2988024 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:53:45.012 2988025 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:53:45.021 2988034 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from com.itkweb.bbtv.channels.WelcomeController@3608d746
+09:53:45.054 2988067 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.27:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:53:45.060 2988073 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.28:0/templates/welcome.thl.html
+09:54:55.078 3058091 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:54:55.079 3058092 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:54:55.130 3058143 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.28:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:54:55.138 3058151 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.29:0/templates/welcome.thl.html
+09:55:27.146 3090159 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:55:27.147 3090160 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:55:27.192 3090205 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.29:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:55:27.198 3090211 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.30:0/templates/welcome.thl.html
+09:55:39.202 3102215 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:55:39.202 3102215 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:55:39.230 3102243 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.30:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:55:39.236 3102249 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.31:0/templates/welcome.thl.html
+09:55:59.241 3122254 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:55:59.242 3122255 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:55:59.270 3122283 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.31:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:55:59.276 3122289 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.32:0/templates/welcome.thl.html
+09:56:59.293 3182306 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:56:59.294 3182307 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:56:59.340 3182353 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.32:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:56:59.346 3182359 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.33:0/templates/welcome.thl.html
+09:56:59.375 3182388 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from com.itkweb.bbtv.channels.WelcomeController@60b8e60d
+09:56:59.919 3182932 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:56:59.925 3182938 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:57:53.361 3236374 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:57:53.362 3236375 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:57:53.372 3236385 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from com.itkweb.bbtv.channels.WelcomeController@60b8e60d
+09:57:53.402 3236415 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.33:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:57:53.408 3236421 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.34:0/templates/welcome.thl.html
+09:57:53.441 3236454 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from com.itkweb.bbtv.channels.WelcomeController@4d2c47e9
+09:57:57.165 3240178 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:57:57.172 3240185 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:57:58.595 3241608 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:57:58.602 3241615 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:57:59.003 3242016 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:57:59.008 3242021 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:09.204 3252217 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:09.210 3252223 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:09.412 3252425 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:58:09.413 3252426 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:58:09.426 3252439 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from com.itkweb.bbtv.channels.WelcomeController@4d2c47e9
+09:58:09.457 3252470 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.34:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:58:09.463 3252476 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.35:0/templates/welcome.thl.html
+09:58:09.501 3252514 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from com.itkweb.bbtv.channels.WelcomeController@241ca5f1
+09:58:10.971 3253984 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:10.981 3253994 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:11.471 3254484 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:11.477 3254490 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:11.862 3254875 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:11.868 3254881 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:12.259 3255272 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:12.270 3255283 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:12.639 3255652 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:12.648 3255661 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:13.263 3256276 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:13.269 3256282 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:13.754 3256767 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:13.760 3256773 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:14.036 3257049 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:14.044 3257057 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:14.261 3257274 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:14.268 3257281 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:29.467 3272480 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:58:29.468 3272481 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:58:29.474 3272487 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from com.itkweb.bbtv.channels.WelcomeController@241ca5f1
+09:58:29.520 3272533 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.35:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:58:29.526 3272539 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.36: missing requirement [54.36] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.updateBundle(Felix.java:2412) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:994) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:981) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:106) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]
+09:58:51.532 3294545 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:58:51.533 3294546 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:58:51.542 3294555 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.37:0/templates/welcome.thl.html
+09:58:51.571 3294584 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from com.itkweb.bbtv.channels.WelcomeController@6f015c58
+09:58:53.043 3296056 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:53.049 3296062 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:53.744 3296757 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:53.749 3296762 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:54.142 3297155 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:54.148 3297161 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:54.379 3297392 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:54.384 3297397 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:54.602 3297615 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:54.609 3297622 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:58:54.827 3297840 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:58:54.832 3297845 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:59:21.549 3324562 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:59:21.550 3324563 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:59:21.557 3324570 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from com.itkweb.bbtv.channels.WelcomeController@6f015c58
+09:59:21.595 3324608 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.37:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:59:21.601 3324614 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.38:0/templates/welcome.thl.html
+09:59:21.631 3324644 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from com.itkweb.bbtv.channels.WelcomeController@54adb915
+09:59:24.038 3327051 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:59:24.045 3327058 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:59:25.021 3328034 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:59:25.027 3328040 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:59:25.418 3328431 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:59:25.425 3328438 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:59:25.724 3328737 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:59:25.730 3328743 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:59:25.994 3329007 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'css/bootstrap.css' - returning the one from bootstrap-3.1.1
+09:59:26.003 3329016 [vert.x-eventloop-thread-0] WARN  o.wisdom.resources.WebJarController - 2 WebJars provide 'js/bootstrap.min.js' - returning the one from bootstrap-3.1.1
+09:59:33.604 3336617 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:59:33.605 3336618 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:59:33.612 3336625 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from com.itkweb.bbtv.channels.WelcomeController@54adb915
+09:59:33.649 3336662 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.38:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:59:33.655 3336668 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.39:0/templates/welcome.thl.html
+09:59:33.689 3336702 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from com.itkweb.bbtv.channels.WelcomeController@e8e277c
+09:59:43.658 3346671 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+09:59:43.658 3346671 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+09:59:43.661 3346674 [monitor-application] INFO  org.wisdom.router.RequestRouter - Removing routes from com.itkweb.bbtv.channels.WelcomeController@e8e277c
+09:59:43.697 3346710 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.39:0/templates/welcome.thl.html from com.itkweb.bbtv
+09:59:43.704 3346717 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.40:0/templates/welcome.thl.html
+09:59:43.724 3346737 [[iPOJO] pool-1-thread-1] ERROR o.o.u.log.impl.osgi.LoggerService - [ERROR] com.itkweb.bbtv.channels.ChannelConsumerImpl : The deduction of the service specification for {field=channels} has failed - reason: when neither the field, methods and constructor parameter have provided the service specification, the `specification` attribute must be set
+10:00:03.709 3366722 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+10:00:03.710 3366723 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+10:00:03.746 3366759 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.40:0/templates/welcome.thl.html from com.itkweb.bbtv
+10:00:03.752 3366765 [monitor-application] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://54.41:0/templates/welcome.thl.html
+10:00:03.786 3366799 [[iPOJO] pool-1-thread-1] ERROR o.o.u.log.impl.osgi.LoggerService - [ERROR] com.itkweb.bbtv.channels.ChannelConsumerImpl : The deduction of the service specification for {field=channels} has failed - reason: when neither the field, methods and constructor parameter have provided the service specification, the `specification` attribute must be set
+10:00:21.757 3384770 [monitor-application] INFO  o.o.c.c.activators.DirectoryMonitor - File /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application changed
+10:00:21.757 3384770 [monitor-application] INFO  o.o.c.c.activators.BundleDeployer - Updating bundle com.itkweb.bbtv - /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+10:00:21.788 3384801 [monitor-application] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://54.41:0/templates/welcome.thl.html from com.itkweb.bbtv
+10:00:21.792 3384805 [monitor-application] ERROR o.o.c.c.activators.BundleDeployer - Error during bundle update com.itkweb.bbtv from /home/eric/development/workspaces/hdays/bbtv/target/wisdom/application/com.itkweb.bbtv-1.0-SNAPSHOT.jar
+org.osgi.framework.BundleException: Unresolved constraint in bundle com.itkweb.bbtv [54]: Unable to resolve 54.42: missing requirement [54.42] osgi.wiring.package; (osgi.wiring.package=com.itkweb.bbtv.channels)
+	at org.apache.felix.framework.Felix.resolveBundleRevision(Felix.java:4002) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.startBundle(Felix.java:2045) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.Felix.updateBundle(Felix.java:2412) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:994) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.apache.felix.framework.BundleImpl.update(BundleImpl.java:981) ~[org.apache.felix.framework-4.4.1.jar:na]
+	at org.ow2.chameleon.core.activators.BundleDeployer.onFileCreate(BundleDeployer.java:106) ~[chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.services.AbstractDeployer.onFileChange(AbstractDeployer.java:43) [chameleon-core-1.10.3.jar:na]
+	at org.ow2.chameleon.core.activators.DirectoryMonitor$FileMonitor.onFileChange(DirectoryMonitor.java:501) [chameleon-core-1.10.3.jar:na]
+	at org.apache.commons.io.monitor.FileAlterationObserver.doMatch(FileAlterationObserver.java:400) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:334) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationObserver.checkAndNotify(FileAlterationObserver.java:304) [commons-io-2.4.jar:2.4]
+	at org.apache.commons.io.monitor.FileAlterationMonitor.run(FileAlterationMonitor.java:182) [commons-io-2.4.jar:2.4]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_67]

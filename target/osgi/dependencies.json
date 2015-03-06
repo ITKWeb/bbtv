@@ -1,0 +1,2715 @@
+{
+  "directDependencies" : [ {
+    "groupId" : "org.wisdom-framework",
+    "artifactId" : "wisdom-api",
+    "baseVersion" : "0.7.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/wisdom-framework/wisdom-api/0.7.0/wisdom-api-0.7.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0" ],
+    "version" : "0.7.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 0,
+        "minorVersion" : 7,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.wisdom-framework:wisdom-api:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 0,
+      "minorVersion" : 7,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.wisdom-framework:wisdom-api:jar:0.7.0"
+  }, {
+    "groupId" : "org.apache.felix",
+    "artifactId" : "org.apache.felix.ipojo.annotations",
+    "baseVersion" : "1.12.1",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/apache/felix/org.apache.felix.ipojo.annotations/1.12.1/org.apache.felix.ipojo.annotations-1.12.1.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.apache.felix:org.apache.felix.ipojo.annotations:jar:1.12.1" ],
+    "version" : "1.12.1",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 12,
+        "incrementalVersion" : 1,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.apache.felix:org.apache.felix.ipojo.annotations:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 12,
+      "incrementalVersion" : 1,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.apache.felix:org.apache.felix.ipojo.annotations:jar:1.12.1"
+  }, {
+    "groupId" : "org.slf4j",
+    "artifactId" : "slf4j-api",
+    "baseVersion" : "1.7.9",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/slf4j/slf4j-api/1.7.9/slf4j-api-1.7.9.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.slf4j:slf4j-api:jar:1.7.9" ],
+    "version" : "1.7.9",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 7,
+        "incrementalVersion" : 9,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.slf4j:slf4j-api:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 7,
+      "incrementalVersion" : 9,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.slf4j:slf4j-api:jar:1.7.9"
+  }, {
+    "groupId" : "org.webjars",
+    "artifactId" : "bootstrap",
+    "baseVersion" : "3.1.1",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/webjars/bootstrap/3.1.1/bootstrap-3.1.1.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.webjars:bootstrap:jar:3.1.1" ],
+    "version" : "3.1.1",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 3,
+        "minorVersion" : 1,
+        "incrementalVersion" : 1,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.webjars:bootstrap:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 3,
+      "minorVersion" : 1,
+      "incrementalVersion" : 1,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.webjars:bootstrap:jar:3.1.1"
+  }, {
+    "groupId" : "org.webjars",
+    "artifactId" : "jquery",
+    "baseVersion" : "2.1.0-2",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/webjars/jquery/2.1.0-2/jquery-2.1.0-2.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.webjars:jquery:jar:2.1.0-2" ],
+    "version" : "2.1.0-2",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 1,
+        "incrementalVersion" : 0,
+        "buildNumber" : 2,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.webjars:jquery:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 1,
+      "incrementalVersion" : 0,
+      "buildNumber" : 2,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.webjars:jquery:jar:2.1.0-2"
+  }, {
+    "groupId" : "org.wisdom-framework",
+    "artifactId" : "wisdom-test",
+    "baseVersion" : "0.7.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "test",
+    "file" : "/home/eric/.m2/repository/org/wisdom-framework/wisdom-test/0.7.0/wisdom-test-0.7.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0" ],
+    "version" : "0.7.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 0,
+        "minorVersion" : 7,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.wisdom-framework:wisdom-test:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 0,
+      "minorVersion" : 7,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.wisdom-framework:wisdom-test:jar:0.7.0"
+  }, {
+    "groupId" : "junit",
+    "artifactId" : "junit",
+    "baseVersion" : "4.12",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "test",
+    "file" : "/home/eric/.m2/repository/junit/junit/4.12/junit-4.12.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "junit:junit:jar:4.12" ],
+    "version" : "4.12",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 4,
+        "minorVersion" : 12,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "junit:junit:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 4,
+      "minorVersion" : 12,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "junit:junit:jar:4.12"
+  }, {
+    "groupId" : "org.assertj",
+    "artifactId" : "assertj-core",
+    "baseVersion" : "1.7.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "test",
+    "file" : "/home/eric/.m2/repository/org/assertj/assertj-core/1.7.0/assertj-core-1.7.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.assertj:assertj-core:jar:1.7.0" ],
+    "version" : "1.7.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 7,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.assertj:assertj-core:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 7,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.assertj:assertj-core:jar:1.7.0"
+  }, {
+    "groupId" : "org.mockito",
+    "artifactId" : "mockito-all",
+    "baseVersion" : "1.10.17",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "test",
+    "file" : "/home/eric/.m2/repository/org/mockito/mockito-all/1.10.17/mockito-all-1.10.17.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.mockito:mockito-all:jar:1.10.17" ],
+    "version" : "1.10.17",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 10,
+        "incrementalVersion" : 17,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.mockito:mockito-all:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 10,
+      "incrementalVersion" : 17,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.mockito:mockito-all:jar:1.10.17"
+  }, {
+    "groupId" : "org.fluentlenium",
+    "artifactId" : "fluentlenium-assertj",
+    "baseVersion" : "0.10.3",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "test",
+    "file" : "/home/eric/.m2/repository/org/fluentlenium/fluentlenium-assertj/0.10.3/fluentlenium-assertj-0.10.3.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.fluentlenium:fluentlenium-assertj:jar:0.10.3" ],
+    "version" : "0.10.3",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 0,
+        "minorVersion" : 10,
+        "incrementalVersion" : 3,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.fluentlenium:fluentlenium-assertj:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 0,
+      "minorVersion" : 10,
+      "incrementalVersion" : 3,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.fluentlenium:fluentlenium-assertj:jar:0.10.3"
+  }, {
+    "groupId" : "org.slf4j",
+    "artifactId" : "slf4j-jcl",
+    "baseVersion" : "1.7.9",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "test",
+    "file" : "/home/eric/.m2/repository/org/slf4j/slf4j-jcl/1.7.9/slf4j-jcl-1.7.9.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.slf4j:slf4j-jcl:jar:1.7.9" ],
+    "version" : "1.7.9",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 7,
+        "incrementalVersion" : 9,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.slf4j:slf4j-jcl:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 7,
+      "incrementalVersion" : 9,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.slf4j:slf4j-jcl:jar:1.7.9"
+  }, {
+    "groupId" : "org.wisdom-framework",
+    "artifactId" : "wisdom-monitor",
+    "baseVersion" : "0.7.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/wisdom-framework/wisdom-monitor/0.7.0/wisdom-monitor-0.7.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-monitor:jar:0.7.0" ],
+    "version" : "0.7.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 0,
+        "minorVersion" : 7,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.wisdom-framework:wisdom-monitor:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 0,
+      "minorVersion" : 7,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.wisdom-framework:wisdom-monitor:jar:0.7.0"
+  }, {
+    "groupId" : "org.wisdom-framework",
+    "artifactId" : "documentation",
+    "baseVersion" : "0.7.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/wisdom-framework/documentation/0.7.0/documentation-0.7.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:documentation:jar:0.7.0" ],
+    "version" : "0.7.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 0,
+        "minorVersion" : 7,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ {
+        "lowerBound" : null,
+        "lowerBoundInclusive" : false,
+        "upperBound" : null,
+        "upperBoundInclusive" : false
+      } ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.wisdom-framework:documentation:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 0,
+      "minorVersion" : 7,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.wisdom-framework:documentation:jar:0.7.0"
+  } ],
+  "transitiveDependencies" : [ {
+    "groupId" : "org.wisdom-framework",
+    "artifactId" : "wisdom-api",
+    "baseVersion" : "0.7.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/wisdom-framework/wisdom-api/0.7.0/wisdom-api-0.7.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0" ],
+    "version" : "0.7.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 0,
+        "minorVersion" : 7,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.wisdom-framework:wisdom-api:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 0,
+      "minorVersion" : 7,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.wisdom-framework:wisdom-api:jar:0.7.0"
+  }, {
+    "groupId" : "com.fasterxml.jackson.core",
+    "artifactId" : "jackson-databind",
+    "baseVersion" : "2.4.4",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.4.4/jackson-databind-2.4.4.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0", "com.fasterxml.jackson.core:jackson-databind:jar:2.4.4" ],
+    "version" : "2.4.4",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 4,
+        "incrementalVersion" : 4,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "com.fasterxml.jackson.core:jackson-databind:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 4,
+      "incrementalVersion" : 4,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "com.fasterxml.jackson.core:jackson-databind:jar:2.4.4"
+  }, {
+    "groupId" : "com.fasterxml.jackson.core",
+    "artifactId" : "jackson-annotations",
+    "baseVersion" : "2.4.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0", "com.fasterxml.jackson.core:jackson-databind:jar:2.4.4", "com.fasterxml.jackson.core:jackson-annotations:jar:2.4.0" ],
+    "version" : "2.4.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 4,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "com.fasterxml.jackson.core:jackson-annotations:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 4,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "com.fasterxml.jackson.core:jackson-annotations:jar:2.4.0"
+  }, {
+    "groupId" : "com.fasterxml.jackson.core",
+    "artifactId" : "jackson-core",
+    "baseVersion" : "2.4.4",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.4.4/jackson-core-2.4.4.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0", "com.fasterxml.jackson.core:jackson-databind:jar:2.4.4", "com.fasterxml.jackson.core:jackson-core:jar:2.4.4" ],
+    "version" : "2.4.4",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 4,
+        "incrementalVersion" : 4,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "com.fasterxml.jackson.core:jackson-core:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 4,
+      "incrementalVersion" : 4,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "com.fasterxml.jackson.core:jackson-core:jar:2.4.4"
+  }, {
+    "groupId" : "com.fasterxml.jackson.dataformat",
+    "artifactId" : "jackson-dataformat-xml",
+    "baseVersion" : "2.4.4",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.4.4/jackson-dataformat-xml-2.4.4.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0", "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.4.4" ],
+    "version" : "2.4.4",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 4,
+        "incrementalVersion" : 4,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 4,
+      "incrementalVersion" : 4,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.4.4"
+  }, {
+    "groupId" : "com.fasterxml.jackson.module",
+    "artifactId" : "jackson-module-jaxb-annotations",
+    "baseVersion" : "2.4.4",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.4.4/jackson-module-jaxb-annotations-2.4.4.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0", "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.4.4", "com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.4.4" ],
+    "version" : "2.4.4",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 4,
+        "incrementalVersion" : 4,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 4,
+      "incrementalVersion" : 4,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.4.4"
+  }, {
+    "groupId" : "org.codehaus.woodstox",
+    "artifactId" : "stax2-api",
+    "baseVersion" : "3.1.4",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0", "com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.4.4", "org.codehaus.woodstox:stax2-api:jar:3.1.4" ],
+    "version" : "3.1.4",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 3,
+        "minorVersion" : 1,
+        "incrementalVersion" : 4,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.codehaus.woodstox:stax2-api:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 3,
+      "minorVersion" : 1,
+      "incrementalVersion" : 4,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.codehaus.woodstox:stax2-api:jar:3.1.4"
+  }, {
+    "groupId" : "com.google.guava",
+    "artifactId" : "guava",
+    "baseVersion" : "18.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0", "com.google.guava:guava:jar:18.0" ],
+    "version" : "18.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 18,
+        "minorVersion" : 0,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "com.google.guava:guava:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 18,
+      "minorVersion" : 0,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "com.google.guava:guava:jar:18.0"
+  }, {
+    "groupId" : "commons-io",
+    "artifactId" : "commons-io",
+    "baseVersion" : "2.4",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0", "commons-io:commons-io:jar:2.4" ],
+    "version" : "2.4",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 4,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "commons-io:commons-io:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 4,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "commons-io:commons-io:jar:2.4"
+  }, {
+    "groupId" : "joda-time",
+    "artifactId" : "joda-time",
+    "baseVersion" : "2.6",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/joda-time/joda-time/2.6/joda-time-2.6.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0", "joda-time:joda-time:jar:2.6" ],
+    "version" : "2.6",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 6,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "joda-time:joda-time:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 6,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "joda-time:joda-time:jar:2.6"
+  }, {
+    "groupId" : "javax.validation",
+    "artifactId" : "validation-api",
+    "baseVersion" : "1.1.0.Final",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-api:jar:0.7.0", "javax.validation:validation-api:jar:1.1.0.Final" ],
+    "version" : "1.1.0.Final",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 1,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : "Final"
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "javax.validation:validation-api:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 1,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : "Final"
+    },
+    "selectedVersionKnown" : true,
+    "id" : "javax.validation:validation-api:jar:1.1.0.Final"
+  }, {
+    "groupId" : "org.apache.felix",
+    "artifactId" : "org.apache.felix.ipojo.annotations",
+    "baseVersion" : "1.12.1",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/apache/felix/org.apache.felix.ipojo.annotations/1.12.1/org.apache.felix.ipojo.annotations-1.12.1.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.apache.felix:org.apache.felix.ipojo.annotations:jar:1.12.1" ],
+    "version" : "1.12.1",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 12,
+        "incrementalVersion" : 1,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.apache.felix:org.apache.felix.ipojo.annotations:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 12,
+      "incrementalVersion" : 1,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.apache.felix:org.apache.felix.ipojo.annotations:jar:1.12.1"
+  }, {
+    "groupId" : "org.slf4j",
+    "artifactId" : "slf4j-api",
+    "baseVersion" : "1.7.9",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/slf4j/slf4j-api/1.7.9/slf4j-api-1.7.9.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.slf4j:slf4j-api:jar:1.7.9" ],
+    "version" : "1.7.9",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 7,
+        "incrementalVersion" : 9,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.slf4j:slf4j-api:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 7,
+      "incrementalVersion" : 9,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.slf4j:slf4j-api:jar:1.7.9"
+  }, {
+    "groupId" : "org.webjars",
+    "artifactId" : "bootstrap",
+    "baseVersion" : "3.1.1",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/webjars/bootstrap/3.1.1/bootstrap-3.1.1.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.webjars:bootstrap:jar:3.1.1" ],
+    "version" : "3.1.1",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 3,
+        "minorVersion" : 1,
+        "incrementalVersion" : 1,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.webjars:bootstrap:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 3,
+      "minorVersion" : 1,
+      "incrementalVersion" : 1,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.webjars:bootstrap:jar:3.1.1"
+  }, {
+    "groupId" : "org.webjars",
+    "artifactId" : "jquery",
+    "baseVersion" : "2.1.0-2",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/webjars/jquery/2.1.0-2/jquery-2.1.0-2.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.webjars:jquery:jar:2.1.0-2" ],
+    "version" : "2.1.0-2",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 1,
+        "incrementalVersion" : 0,
+        "buildNumber" : 2,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.webjars:jquery:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 1,
+      "incrementalVersion" : 0,
+      "buildNumber" : 2,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.webjars:jquery:jar:2.1.0-2"
+  }, {
+    "groupId" : "org.ow2.asm",
+    "artifactId" : "asm-all",
+    "baseVersion" : "5.0.2",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/ow2/asm/asm-all/5.0.2/asm-all-5.0.2.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.apache.felix:org.apache.felix.ipojo.manipulator:jar:1.12.1", "org.ow2.asm:asm-all:jar:5.0.2" ],
+    "version" : "5.0.2",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 5,
+        "minorVersion" : 0,
+        "incrementalVersion" : 2,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.ow2.asm:asm-all:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 5,
+      "minorVersion" : 0,
+      "incrementalVersion" : 2,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.ow2.asm:asm-all:jar:5.0.2"
+  }, {
+    "groupId" : "org.apache.felix",
+    "artifactId" : "org.apache.felix.ipojo.metadata",
+    "baseVersion" : "1.6.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/apache/felix/org.apache.felix.ipojo.metadata/1.6.0/org.apache.felix.ipojo.metadata-1.6.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.apache.felix:org.apache.felix.ipojo.manipulator:jar:1.12.1", "org.apache.felix:org.apache.felix.ipojo.metadata:jar:1.6.0" ],
+    "version" : "1.6.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 6,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.apache.felix:org.apache.felix.ipojo.metadata:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 6,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.apache.felix:org.apache.felix.ipojo.metadata:jar:1.6.0"
+  }, {
+    "groupId" : "org.apache.felix",
+    "artifactId" : "org.apache.felix.ipojo",
+    "baseVersion" : "1.12.1",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/apache/felix/org.apache.felix.ipojo/1.12.1/org.apache.felix.ipojo-1.12.1.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.ow2.chameleon.testing:osgi-helpers:jar:0.6.2", "org.apache.felix:org.apache.felix.ipojo:jar:1.12.1" ],
+    "version" : "1.12.1",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 12,
+        "incrementalVersion" : 1,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.apache.felix:org.apache.felix.ipojo:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 12,
+      "incrementalVersion" : 1,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.apache.felix:org.apache.felix.ipojo:jar:1.12.1"
+  }, {
+    "groupId" : "org.ow2.chameleon",
+    "artifactId" : "chameleon-core",
+    "baseVersion" : "1.10.3",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/ow2/chameleon/chameleon-core/1.10.3/chameleon-core-1.10.3.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.ow2.chameleon:chameleon-core:jar:1.10.3" ],
+    "version" : "1.10.3",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 10,
+        "incrementalVersion" : 3,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.ow2.chameleon:chameleon-core:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 10,
+      "incrementalVersion" : 3,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.ow2.chameleon:chameleon-core:jar:1.10.3"
+  }, {
+    "groupId" : "org.apache.felix",
+    "artifactId" : "org.apache.felix.framework",
+    "baseVersion" : "4.4.1",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/apache/felix/org.apache.felix.framework/4.4.1/org.apache.felix.framework-4.4.1.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.ow2.chameleon:chameleon-core:jar:1.10.3", "org.apache.felix:org.apache.felix.framework:jar:4.4.1" ],
+    "version" : "4.4.1",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 4,
+        "minorVersion" : 4,
+        "incrementalVersion" : 1,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.apache.felix:org.apache.felix.framework:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 4,
+      "minorVersion" : 4,
+      "incrementalVersion" : 1,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.apache.felix:org.apache.felix.framework:jar:4.4.1"
+  }, {
+    "groupId" : "org.eclipse",
+    "artifactId" : "osgi",
+    "baseVersion" : "3.10.0-v20140606-1445",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/eclipse/osgi/3.10.0-v20140606-1445/osgi-3.10.0-v20140606-1445.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.ow2.chameleon:chameleon-core:jar:1.10.3", "org.eclipse:osgi:jar:3.10.0-v20140606-1445" ],
+    "version" : "3.10.0-v20140606-1445",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 3,
+        "minorVersion" : 10,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : "v20140606-1445"
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.eclipse:osgi:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 3,
+      "minorVersion" : 10,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : "v20140606-1445"
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.eclipse:osgi:jar:3.10.0-v20140606-1445"
+  }, {
+    "groupId" : "org.osgi",
+    "artifactId" : "org.osgi.core",
+    "baseVersion" : "5.0.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/osgi/org.osgi.core/5.0.0/org.osgi.core-5.0.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.ow2.chameleon:chameleon-core:jar:1.10.3", "org.osgi:org.osgi.core:jar:5.0.0" ],
+    "version" : "5.0.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 5,
+        "minorVersion" : 0,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.osgi:org.osgi.core:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 5,
+      "minorVersion" : 0,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.osgi:org.osgi.core:jar:5.0.0"
+  }, {
+    "groupId" : "org.osgi",
+    "artifactId" : "org.osgi.enterprise",
+    "baseVersion" : "5.0.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/osgi/org.osgi.enterprise/5.0.0/org.osgi.enterprise-5.0.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.ow2.chameleon:chameleon-core:jar:1.10.3", "org.osgi:org.osgi.enterprise:jar:5.0.0" ],
+    "version" : "5.0.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 5,
+        "minorVersion" : 0,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.osgi:org.osgi.enterprise:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 5,
+      "minorVersion" : 0,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.osgi:org.osgi.enterprise:jar:5.0.0"
+  }, {
+    "groupId" : "org.osgi",
+    "artifactId" : "org.osgi.compendium",
+    "baseVersion" : "5.0.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/osgi/org.osgi.compendium/5.0.0/org.osgi.compendium-5.0.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.ow2.chameleon:chameleon-core:jar:1.10.3", "org.osgi:org.osgi.compendium:jar:5.0.0" ],
+    "version" : "5.0.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 5,
+        "minorVersion" : 0,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.osgi:org.osgi.compendium:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 5,
+      "minorVersion" : 0,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.osgi:org.osgi.compendium:jar:5.0.0"
+  }, {
+    "groupId" : "ch.qos.logback",
+    "artifactId" : "logback-classic",
+    "baseVersion" : "1.1.2",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.ow2.chameleon:chameleon-core:jar:1.10.3", "ch.qos.logback:logback-classic:jar:1.1.2" ],
+    "version" : "1.1.2",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 1,
+        "incrementalVersion" : 2,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "ch.qos.logback:logback-classic:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 1,
+      "incrementalVersion" : 2,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "ch.qos.logback:logback-classic:jar:1.1.2"
+  }, {
+    "groupId" : "ch.qos.logback",
+    "artifactId" : "logback-core",
+    "baseVersion" : "1.1.2",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.ow2.chameleon:chameleon-core:jar:1.10.3", "ch.qos.logback:logback-classic:jar:1.1.2", "ch.qos.logback:logback-core:jar:1.1.2" ],
+    "version" : "1.1.2",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 1,
+        "incrementalVersion" : 2,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "ch.qos.logback:logback-core:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 1,
+      "incrementalVersion" : 2,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "ch.qos.logback:logback-core:jar:1.1.2"
+  }, {
+    "groupId" : "org.fusesource.jansi",
+    "artifactId" : "jansi",
+    "baseVersion" : "1.11",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/fusesource/jansi/jansi/1.11/jansi-1.11.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-test:jar:0.7.0", "org.ow2.chameleon:chameleon-core:jar:1.10.3", "org.fusesource.jansi:jansi:jar:1.11" ],
+    "version" : "1.11",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 11,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.fusesource.jansi:jansi:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 11,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.fusesource.jansi:jansi:jar:1.11"
+  }, {
+    "groupId" : "org.wisdom-framework",
+    "artifactId" : "wisdom-monitor",
+    "baseVersion" : "0.7.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/wisdom-framework/wisdom-monitor/0.7.0/wisdom-monitor-0.7.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-monitor:jar:0.7.0" ],
+    "version" : "0.7.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 0,
+        "minorVersion" : 7,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.wisdom-framework:wisdom-monitor:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 0,
+      "minorVersion" : 7,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.wisdom-framework:wisdom-monitor:jar:0.7.0"
+  }, {
+    "groupId" : "org.webjars",
+    "artifactId" : "momentjs",
+    "baseVersion" : "2.5.1-1",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/webjars/momentjs/2.5.1-1/momentjs-2.5.1-1.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-monitor:jar:0.7.0", "org.webjars:momentjs:jar:2.5.1-1" ],
+    "version" : "2.5.1-1",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 5,
+        "incrementalVersion" : 1,
+        "buildNumber" : 1,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.webjars:momentjs:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 5,
+      "incrementalVersion" : 1,
+      "buildNumber" : 1,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.webjars:momentjs:jar:2.5.1-1"
+  }, {
+    "groupId" : "com.codahale.metrics",
+    "artifactId" : "metrics-core",
+    "baseVersion" : "3.0.1",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/com/codahale/metrics/metrics-core/3.0.1/metrics-core-3.0.1.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-monitor:jar:0.7.0", "com.codahale.metrics:metrics-core:jar:3.0.1" ],
+    "version" : "3.0.1",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 3,
+        "minorVersion" : 0,
+        "incrementalVersion" : 1,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "com.codahale.metrics:metrics-core:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 3,
+      "minorVersion" : 0,
+      "incrementalVersion" : 1,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "com.codahale.metrics:metrics-core:jar:3.0.1"
+  }, {
+    "groupId" : "com.codahale.metrics",
+    "artifactId" : "metrics-jvm",
+    "baseVersion" : "3.0.1",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/com/codahale/metrics/metrics-jvm/3.0.1/metrics-jvm-3.0.1.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-monitor:jar:0.7.0", "com.codahale.metrics:metrics-jvm:jar:3.0.1" ],
+    "version" : "3.0.1",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 3,
+        "minorVersion" : 0,
+        "incrementalVersion" : 1,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "com.codahale.metrics:metrics-jvm:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 3,
+      "minorVersion" : 0,
+      "incrementalVersion" : 1,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "com.codahale.metrics:metrics-jvm:jar:3.0.1"
+  }, {
+    "groupId" : "com.codahale.metrics",
+    "artifactId" : "metrics-graphite",
+    "baseVersion" : "3.0.1",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/com/codahale/metrics/metrics-graphite/3.0.1/metrics-graphite-3.0.1.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-monitor:jar:0.7.0", "com.codahale.metrics:metrics-graphite:jar:3.0.1" ],
+    "version" : "3.0.1",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 3,
+        "minorVersion" : 0,
+        "incrementalVersion" : 1,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "com.codahale.metrics:metrics-graphite:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 3,
+      "minorVersion" : 0,
+      "incrementalVersion" : 1,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "com.codahale.metrics:metrics-graphite:jar:3.0.1"
+  }, {
+    "groupId" : "org.webjars",
+    "artifactId" : "tablesorter",
+    "baseVersion" : "2.15.5",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/webjars/tablesorter/2.15.5/tablesorter-2.15.5.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-monitor:jar:0.7.0", "org.webjars:tablesorter:jar:2.15.5" ],
+    "version" : "2.15.5",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 15,
+        "incrementalVersion" : 5,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.webjars:tablesorter:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 15,
+      "incrementalVersion" : 5,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.webjars:tablesorter:jar:2.15.5"
+  }, {
+    "groupId" : "org.webjars",
+    "artifactId" : "jquery-mousewheel",
+    "baseVersion" : "3.1.9",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/webjars/jquery-mousewheel/3.1.9/jquery-mousewheel-3.1.9.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-monitor:jar:0.7.0", "org.webjars:jquery-mousewheel:jar:3.1.9" ],
+    "version" : "3.1.9",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 3,
+        "minorVersion" : 1,
+        "incrementalVersion" : 9,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.webjars:jquery-mousewheel:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 3,
+      "minorVersion" : 1,
+      "incrementalVersion" : 9,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.webjars:jquery-mousewheel:jar:3.1.9"
+  }, {
+    "groupId" : "org.webjars",
+    "artifactId" : "handlebars",
+    "baseVersion" : "1.3.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/webjars/handlebars/1.3.0/handlebars-1.3.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:wisdom-monitor:jar:0.7.0", "org.webjars:handlebars:jar:1.3.0" ],
+    "version" : "1.3.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 3,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.webjars:handlebars:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 3,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.webjars:handlebars:jar:1.3.0"
+  }, {
+    "groupId" : "org.wisdom-framework",
+    "artifactId" : "documentation",
+    "baseVersion" : "0.7.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/wisdom-framework/documentation/0.7.0/documentation-0.7.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:documentation:jar:0.7.0" ],
+    "version" : "0.7.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 0,
+        "minorVersion" : 7,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.wisdom-framework:documentation:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 0,
+      "minorVersion" : 7,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.wisdom-framework:documentation:jar:0.7.0"
+  }, {
+    "groupId" : "org.wisdom-framework",
+    "artifactId" : "akka-system",
+    "baseVersion" : "0.7.0",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/wisdom-framework/akka-system/0.7.0/akka-system-0.7.0.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:documentation:jar:0.7.0", "org.wisdom-framework:akka-system:jar:0.7.0" ],
+    "version" : "0.7.0",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 0,
+        "minorVersion" : 7,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.wisdom-framework:akka-system:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 0,
+      "minorVersion" : 7,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.wisdom-framework:akka-system:jar:0.7.0"
+  }, {
+    "groupId" : "org.scala-lang",
+    "artifactId" : "scala-library",
+    "baseVersion" : "2.10.2",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "provided",
+    "file" : "/home/eric/.m2/repository/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:documentation:jar:0.7.0", "org.wisdom-framework:akka-system:jar:0.7.0", "org.scala-lang:scala-library:jar:2.10.2" ],
+    "version" : "2.10.2",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 2,
+        "minorVersion" : 10,
+        "incrementalVersion" : 2,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.scala-lang:scala-library:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 2,
+      "minorVersion" : 10,
+      "incrementalVersion" : 2,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.scala-lang:scala-library:jar:2.10.2"
+  }, {
+    "groupId" : "org.webjars",
+    "artifactId" : "bootswatch-flatly",
+    "baseVersion" : "3.1.1",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/webjars/bootswatch-flatly/3.1.1/bootswatch-flatly-3.1.1.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:documentation:jar:0.7.0", "org.webjars:bootswatch-flatly:jar:3.1.1" ],
+    "version" : "3.1.1",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 3,
+        "minorVersion" : 1,
+        "incrementalVersion" : 1,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.webjars:bootswatch-flatly:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 3,
+      "minorVersion" : 1,
+      "incrementalVersion" : 1,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.webjars:bootswatch-flatly:jar:3.1.1"
+  }, {
+    "groupId" : "org.webjars",
+    "artifactId" : "font-awesome",
+    "baseVersion" : "4.0.3",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/webjars/font-awesome/4.0.3/font-awesome-4.0.3.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:documentation:jar:0.7.0", "org.webjars:font-awesome:jar:4.0.3" ],
+    "version" : "4.0.3",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 4,
+        "minorVersion" : 0,
+        "incrementalVersion" : 3,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.webjars:font-awesome:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 4,
+      "minorVersion" : 0,
+      "incrementalVersion" : 3,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.webjars:font-awesome:jar:4.0.3"
+  }, {
+    "groupId" : "org.webjars",
+    "artifactId" : "font-mfizz",
+    "baseVersion" : "1.2",
+    "type" : "jar",
+    "classifier" : null,
+    "scope" : "compile",
+    "file" : "/home/eric/.m2/repository/org/webjars/font-mfizz/1.2/font-mfizz-1.2.jar",
+    "repository" : null,
+    "downloadUrl" : null,
+    "dependencyFilter" : null,
+    "artifactHandler" : {
+      "extension" : "jar",
+      "type" : "jar",
+      "classifier" : null,
+      "directory" : "jars",
+      "packaging" : "jar",
+      "includesDependencies" : false,
+      "language" : "java",
+      "addedToClasspath" : true
+    },
+    "dependencyTrail" : [ "com.itkweb:bbtv:wisdom:1.0-SNAPSHOT", "org.wisdom-framework:documentation:jar:0.7.0", "org.webjars:font-mfizz:jar:1.2" ],
+    "version" : "1.2",
+    "versionRange" : {
+      "recommendedVersion" : {
+        "majorVersion" : 1,
+        "minorVersion" : 2,
+        "incrementalVersion" : 0,
+        "buildNumber" : 0,
+        "qualifier" : null
+      },
+      "restrictions" : [ ]
+    },
+    "resolved" : true,
+    "release" : false,
+    "availableVersions" : null,
+    "optional" : false,
+    "dependencyConflictId" : "org.webjars:font-mfizz:jar",
+    "snapshot" : false,
+    "metadataList" : [ ],
+    "selectedVersion" : {
+      "majorVersion" : 1,
+      "minorVersion" : 2,
+      "incrementalVersion" : 0,
+      "buildNumber" : 0,
+      "qualifier" : null
+    },
+    "selectedVersionKnown" : true,
+    "id" : "org.webjars:font-mfizz:jar:1.2"
+  } ]
+}
