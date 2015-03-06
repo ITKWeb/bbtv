@@ -13,26 +13,31 @@
 
     <h1 class="main-title">BBTV!</h1>
 
-    <iframe id="iframe" class="iframe" src="/randomChannel"></iframe>
+    <div id="iframe" class="iframe"></div>
 
     <h1 class="main-footer">Made with ♥ by ITK</h1>
 
     <script>
+        window.addEventListener("load", function() {
+            var getHash = function getHash() {
+                var hash = window.location.hash;
+                return hash.substring(1); // remove #
+            };
 
-        var getHash = function getHash() {
-            var hash = window.location.hash;
-            return hash.substring(1); // remove #
-        };
+            if(getHash() !== 'debug') {
+                setInterval(function () {
+                    $( "#iframe" ).load( "/randomChannel" );
+                }, 10000);
+            }
 
-        if(getHash() !== 'debug') {
-            var iframe = document.getElementById('iframe');
-            setInterval(function () {
-                iframe.contentWindow.location.reload(true);
-            }, 10000);
-        }
+            $( "#iframe" ).load( "/randomChannel" );
+        });
     </script>
 
 </div>
+
+<!-- Scripts -->
+<script src="/libs/jquery.min.js"></script>
 
 </body>
 </html>
