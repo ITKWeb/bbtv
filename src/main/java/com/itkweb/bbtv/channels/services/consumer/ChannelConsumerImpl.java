@@ -27,7 +27,7 @@ import java.util.logging.Logger;
 @Instantiate
 public class ChannelConsumerImpl extends DefaultController implements ChannelConsumer {
 
-    private Random r = new Random();
+    private int channelIndex = 0;
 
     @View("mosaic")
     Template mosaic;
@@ -37,11 +37,11 @@ public class ChannelConsumerImpl extends DefaultController implements ChannelCon
 
     @Override
     public Channel getChannel() {
-        Channel channel = channels.get(r.nextInt(channels.size()));
+        Channel channel = channels.get(channelIndex);
         Logger.getLogger("ChannelConsumerImpl").log(Level.INFO, "Channel : " + channel.getMeta().id);
+        channelIndex++;
+        if (channelIndex > channels.size()-1) channelIndex = 0;
         return channel;
-     //   return "Yes";
-        //return channels;
     }
 
     @Override
