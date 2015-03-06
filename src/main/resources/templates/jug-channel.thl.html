@@ -1,13 +1,5 @@
 <div>JUG Events!</div>
 
-<div id="jug-contents"></div>
-
-<script>
-    $.get('http://jug-montpellier.org/api/events.json', function(events) {
-        var res = '';
-        events.forEach(function(event) {
-            res += '<div>' + event.title + '</div>';
-        });
-        $('#jug-contents').html(res);
-    });
-</script>
+<ul>
+    <li th:each="event : ${events}" th:text="${event.title}"></li>
+</ul>
