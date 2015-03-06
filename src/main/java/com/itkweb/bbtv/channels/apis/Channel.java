@@ -11,6 +11,4 @@ public interface Channel {
 
     public ChannelMeta getMeta();
 
-    public String id();
-
 }

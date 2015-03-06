@@ -38,7 +38,7 @@ public class ChannelConsumerImpl extends DefaultController implements ChannelCon
     @Override
     public Channel getChannel() {
         Channel channel = channels.get(r.nextInt(channels.size()));
-        Logger.getLogger("ChannelConsumerImpl").log(Level.INFO, "Channel : " + channel.id());
+        Logger.getLogger("ChannelConsumerImpl").log(Level.INFO, "Channel : " + channel.getMeta().id);
         return channel;
      //   return "Yes";
         //return channels;

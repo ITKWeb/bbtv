@@ -18,7 +18,7 @@ import org.wisdom.api.templates.Template;
 @Instantiate
 public class RedmineChannel extends DefaultController implements Channel {
 
-    private ChannelMeta meta = new ChannelMeta("/assets/images/redmine.png", "Redmine");
+    private ChannelMeta meta = new ChannelMeta(RedmineChannel.class.getName(), "/assets/images/redmine.png", "Redmine");
 
     @View("test2")
     Template test2;
@@ -31,11 +31,6 @@ public class RedmineChannel extends DefaultController implements Channel {
     @Override
     public ChannelMeta getMeta() {
         return meta;
-    }
-
-    @Override
-    public String id() {
-        return RedmineChannel.class.getName();
     }
 
 }

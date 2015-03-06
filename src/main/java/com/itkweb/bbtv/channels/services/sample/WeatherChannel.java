@@ -18,7 +18,7 @@ import org.wisdom.api.templates.Template;
 @Instantiate
 public class WeatherChannel extends DefaultController implements Channel {
 
-    private ChannelMeta meta = new ChannelMeta("/assets/images/otherweather.png","Weather");
+    private ChannelMeta meta = new ChannelMeta(RedmineChannel.class.getName(), "/assets/images/otherweather.png","Weather");
 
     @View("test2")
     Template test2;
@@ -37,8 +37,4 @@ public class WeatherChannel extends DefaultController implements Channel {
         return meta;
     }
 
-    @Override
-    public String id() {
-        return RedmineChannel.class.getName();
-    }
 }

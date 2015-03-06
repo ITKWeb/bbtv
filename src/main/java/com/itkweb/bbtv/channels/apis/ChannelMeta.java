@@ -5,30 +5,18 @@ package com.itkweb.bbtv.channels.apis;
  */
 public class ChannelMeta {
 
+    public String id;
     public String icon;
     public String name;
+    public String url;
 
     public ChannelMeta() {
     }
 
-    public ChannelMeta(String icon, String name) {
+    public ChannelMeta(String id, String icon, String name) {
+        this.id = id;
         this.icon = icon;
         this.name = name;
+        this.url = "channel/" + id;
     }
-
-    public String getName() {
-        return name;
-    }
-
-    public String getIcon() {
-        return icon;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-    public void setIcon(String icon) {
-        this.icon = icon;
-    }
-
 }

@@ -18,7 +18,7 @@ import org.wisdom.api.templates.Template;
 @Instantiate
 public class JenkinsChannel extends DefaultController implements Channel {
 
-    private ChannelMeta meta = new ChannelMeta("/assets/images/jenkins.jpg", "Jenkins");
+    private ChannelMeta meta = new ChannelMeta(JenkinsChannel.class.getName(), "/assets/images/jenkins.jpg", "Jenkins");
 
     @View("test1")
     Template test1;
@@ -33,8 +33,4 @@ public class JenkinsChannel extends DefaultController implements Channel {
         return meta;
     }
 
-    @Override
-    public String id() {
-        return JenkinsChannel.class.getName();
-    }
 }

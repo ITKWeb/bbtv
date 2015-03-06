@@ -70,8 +70,8 @@ public class BbtvController extends DefaultController {
     @Route(method = HttpMethod.GET, uri = "/channel/{id}")
     public Result channel(@Parameter("id") String id) {
         for(Channel channel : channels) {
-            if(channel.id().equals(id)) {
-                return ok(render(onlyOneChannel, "urlChannel", "/channelResult/" + channel.id()));
+            if(channel.getMeta().id.equals(id)) {
+                return ok(render(onlyOneChannel, "urlChannel", "/channelResult/" + channel.getMeta().id));
             }
         }
         return badRequest("Channel " + id + " not found!");
@@ -80,7 +80,7 @@ public class BbtvController extends DefaultController {
     @Route(method = HttpMethod.GET, uri = "/channelResult/{id}")
     public Result channelResult(@Parameter("id") String id) {
         for(Channel channel : channels) {
-            if(channel.id().equals(id)) {
+            if(channel.getMeta().id.equals(id)) {
                 return channel.result();
             }
         }
