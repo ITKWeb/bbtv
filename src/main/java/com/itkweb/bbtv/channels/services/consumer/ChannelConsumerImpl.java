@@ -1,6 +1,7 @@
 package com.itkweb.bbtv.channels.services.consumer;
 
 import com.itkweb.bbtv.channels.apis.Channel;
+import com.itkweb.bbtv.channels.apis.ChannelMeta;
 import com.itkweb.bbtv.channels.services.ChannelConsumer;
 import org.apache.felix.ipojo.annotations.Component;
 import org.apache.felix.ipojo.annotations.Instantiate;
@@ -11,6 +12,7 @@ import org.wisdom.api.annotations.View;
 import org.wisdom.api.http.Result;
 import org.wisdom.api.templates.Template;
 
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 import java.util.Random;
@@ -40,7 +42,11 @@ public class ChannelConsumerImpl extends DefaultController implements ChannelCon
 
     @Override
     public Result result() {
-        return ok(render(mosaic, "mosaic", "Bonjour to Wisdom Framework!"));
+        List<ChannelMeta> metas = new ArrayList<ChannelMeta>();
+        for (Channel channel : channels) {
+            metas.add(channel.getMeta());
+        }
+        return ok(render(mosaic, "metadatas", metas));
     }
 
 

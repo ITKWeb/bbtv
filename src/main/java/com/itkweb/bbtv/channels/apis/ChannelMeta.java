@@ -12,4 +12,12 @@ public class ChannelMeta {
         this.icon = icon;
         this.name = name;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getIcon() {
+        return icon;
+    }
 }
