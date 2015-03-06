@@ -32,8 +32,45 @@
 <body>
 <div class="container">
     <div class="header">
-        <h3 class="text-danger">this is iws...beware of its power!</h3>
         <img src="/assets/images/iws.jpg" alt="IWS ROCKS!" />
+        <h2 color="red" align="center" th:text= "${iwsData.observationTime}"/>
+
+        <table>
+            <tr>
+                <td>
+                    <h2>Latitude</h2>
+                </td>
+                <td>
+                    <h2 th:text= "${iwsData.latitude}"/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h2>Longitude</h2>
+                </td>
+                <td>
+                    <h2 th:text= "${iwsData.longitude}"/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h2>Temperature (°C)</h2>
+                </td>
+                <td>
+                    <h2 th:text= "${iwsData.temperatureCelsius}"/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h2>Temperature (°F)</h2>
+                </td>
+                <td>
+                    <h2 th:text= "${iwsData.temperatureFahrenheit}"/>
+                </td>
+            </tr>
+
+        </table>
+
 
 
     </div>
