@@ -26,12 +26,25 @@
             };
 
             if(getHash() !== 'debug') {
-       /*         setInterval(function () {
+                setInterval(function () {
                     $( "#iframe" ).load( "/randomChannel" );
-                }, 2000); */
+                }, 2000);
             }
 
             $( "#iframe" ).load( "/randomChannel" );
+
+            function breakingNews() {
+                $.get( "bn", function( data ) {
+                    if(!data) {
+                        $('.bn-container').css({display:"none"});
+                    } else {
+                        $('.bn-container').css({display:""});
+                        $('#bn').text(data);
+                    }
+                });
+            }
+
+            setInterval(breakingNews, 1000);
         });
     </script>
 
@@ -42,14 +55,5 @@
 
 <!-- Scripts -->
 <script src="/libs/jquery.min.js"></script>
-<script>
-    function breakingNews() {
-        $.get( "bn", function( data ) {
-            $('#bn').text(data);
-        });
-    }
-
-    setInterval(breakingNews, 1000);
-</script>
 </body>
 </html>
