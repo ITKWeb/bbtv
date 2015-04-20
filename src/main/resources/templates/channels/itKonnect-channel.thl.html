@@ -1,0 +1,32 @@
+<div id="container"></div>
+
+<script type="text/javascript" src="/assets/javascripts/itKonnect/third-party/Detector.js"></script>
+<script type="text/javascript" src="/assets/javascripts/itKonnect/third-party/three.min.js"></script>
+<script type="text/javascript" src="/assets/javascripts/itKonnect/third-party/tween.min.js"></script>
+<script type="text/javascript" src="/assets/javascripts/itKonnect/globe.js"></script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    if(!Detector.webgl){
+        Detector.addGetWebGLMessage();
+    } else {
+        var container = document.getElementById('container');
+        var globe = new Globe(container, {mapImage: '/assets/images/world.jpg'});
+        //console.log(globe);
+        //setInterval(function() {
+        //var lat = Math.random() * 180 - 90;
+        //var lng = Math.random() * 360 - 180;
+        //globe.updatePoint(lat, lng, {amount: Math.random()*180+1});
+        $.get('/channel/itKonnect/data', function(data) {
+            for(var i=0; i<data.length; i++) {
+                console.log(data);
+                var lat = data[i].latitude;
+                var lng = data[i].longitude;
+                globe.updatePoint(lat, lng, {amount: data[i].amount});
+            }
+        });
+        //}, 100);
+        globe.start();
+        //document.body.style.backgroundImage = 'none'; // remove loading
+    }
+    /*]]>*/
+</script>

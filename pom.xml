@@ -86,6 +86,12 @@
             <version>1.7.9</version>
             <scope>test</scope>
         </dependency>
+        <!-- IP to Geoloc -->
+        <dependency>
+            <groupId>com.maxmind.geoip2</groupId>
+            <artifactId>geoip2</artifactId>
+            <version>2.1.0</version>
+        </dependency>
 
         <!-- Additional applications -->
         <dependency>
@@ -120,6 +126,15 @@
                 <artifactId>wisdom-maven-plugin</artifactId>
                 <version>0.7.0</version>
                 <extensions>true</extensions>
+                <configuration>
+                    <libraries>
+                        <includes>
+                            <include>:geoip2</include>
+                        </includes>
+                        <resolveTransitive>true</resolveTransitive>
+                        <excludeFromApplication>true</excludeFromApplication>
+                    </libraries>
+                </configuration>
             </plugin>
 
             <plugin>
